@@ -7,3 +7,4 @@ xgboost
 lightgbm
 shap
 torch
+nbformat>=4.2.0

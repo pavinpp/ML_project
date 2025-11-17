@@ -1,4 +1,4 @@
-,Area,Item,Year,hg/ha_yield,average_rain_fall_mm_per_year,pesticides_tonnes,avg_temp,fertilizer_kg/ha,solar_radiation_MJ/m2-day
+,Area,Item,Year,hg/ha_yield,average_rain_fall_mm_per_year,pesticides_tonnes,avg_temp,fertilizer_kg/ha,solar_radiation_MJ/m^2-day)
 0,Albania,Maize,1990,36613,611.57,121,16.37,176.1658031,15.42
 1,Albania,Potatoes,1990,66667,611.57,121,16.37,176.1658031,15.42
 2,Albania,"Rice, paddy",1990,23333,611.57,121,16.37,176.1658031,15.42

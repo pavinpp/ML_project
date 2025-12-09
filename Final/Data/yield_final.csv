@@ -8363,369 +8363,6 @@
 8362,Chile,Wheat,2021,5982.1
 8363,Chile,Wheat,2022,5891.7
 8364,Chile,Wheat,2023,5951
-8365,China,Maize (corn),1970,2089.1
-8366,China,Maize (corn),1971,2146.1
-8367,China,Maize (corn),1972,1925
-8368,China,Maize (corn),1973,2334.4
-8369,China,Maize (corn),1974,2468.3
-8370,China,Maize (corn),1975,2542.2
-8371,China,Maize (corn),1976,2507.2
-8372,China,Maize (corn),1977,2515.8
-8373,China,Maize (corn),1978,2803.1
-8374,China,Maize (corn),1979,2985.1
-8375,China,Maize (corn),1980,3078.5
-8376,China,Maize (corn),1981,3050.7
-8377,China,Maize (corn),1982,3268.6
-8378,China,Maize (corn),1983,3625.5
-8379,China,Maize (corn),1984,3962
-8380,China,Maize (corn),1985,3610.3
-8381,China,Maize (corn),1986,3707.4
-8382,China,Maize (corn),1987,3923
-8383,China,Maize (corn),1988,3930.6
-8384,China,Maize (corn),1989,3881.3
-8385,China,Maize (corn),1990,4525.2
-8386,China,Maize (corn),1991,4579.9
-8387,China,Maize (corn),1992,4534.7
-8388,China,Maize (corn),1993,4964.1
-8389,China,Maize (corn),1994,4695.1
-8390,China,Maize (corn),1995,4917.7
-8391,China,Maize (corn),1996,5203.9
-8392,China,Maize (corn),1997,4390.1
-8393,China,Maize (corn),1998,5268.6
-8394,China,Maize (corn),1999,4945.8
-8395,China,Maize (corn),2000,4599.2
-8396,China,Maize (corn),2001,4699.9
-8397,China,Maize (corn),2002,4873.7
-8398,China,Maize (corn),2003,4814.6
-8399,China,Maize (corn),2004,5121.7
-8400,China,Maize (corn),2005,5288.1
-8401,China,Maize (corn),2006,5327.2
-8402,China,Maize (corn),2007,5167.3
-8403,China,Maize (corn),2008,5556.1
-8404,China,Maize (corn),2009,5259.3
-8405,China,Maize (corn),2010,5459.8
-8406,China,Maize (corn),2011,5748.1
-8407,China,Maize (corn),2012,5869.9
-8408,China,Maize (corn),2013,6016.1
-8409,China,Maize (corn),2014,5809.1
-8410,China,Maize (corn),2015,5892.9
-8411,China,Maize (corn),2016,5966.7
-8412,China,Maize (corn),2017,6110.3
-8413,China,Maize (corn),2018,6104.2
-8414,China,Maize (corn),2019,6317.1
-8415,China,Maize (corn),2020,6317.8
-8416,China,Maize (corn),2021,6291.2
-8417,China,Maize (corn),2022,6436.1
-8418,China,Maize (corn),2023,6532
-8419,China,Oil palm fruit,1985,13090.9
-8420,China,Oil palm fruit,1986,13584.9
-8421,China,Oil palm fruit,1987,13267.3
-8422,China,Oil palm fruit,1988,12673.3
-8423,China,Oil palm fruit,1989,12978.7
-8424,China,Oil palm fruit,1990,12325.6
-8425,China,Oil palm fruit,1991,13658.5
-8426,China,Oil palm fruit,1992,14024.4
-8427,China,Oil palm fruit,1993,14634.1
-8428,China,Oil palm fruit,1994,14634.1
-8429,China,Oil palm fruit,1995,14634.1
-8430,China,Oil palm fruit,1996,14476.2
-8431,China,Oil palm fruit,1997,14642.9
-8432,China,Oil palm fruit,1998,14465.1
-8433,China,Oil palm fruit,1999,14651.2
-8434,China,Oil palm fruit,2000,14222.2
-8435,China,Oil palm fruit,2001,13829.8
-8436,China,Oil palm fruit,2002,14042.6
-8437,China,Oil palm fruit,2003,14255.3
-8438,China,Oil palm fruit,2004,14361.7
-8439,China,Oil palm fruit,2005,14361.7
-8440,China,Oil palm fruit,2006,14444.4
-8441,China,Oil palm fruit,2007,13854.2
-8442,China,Oil palm fruit,2008,13916.7
-8443,China,Oil palm fruit,2009,13400
-8444,China,Oil palm fruit,2010,14042.6
-8445,China,Oil palm fruit,2011,13541.7
-8446,China,Oil palm fruit,2012,13469.4
-8447,China,Oil palm fruit,2013,13400
-8448,China,Oil palm fruit,2014,13423.3
-8449,China,Oil palm fruit,2015,13440.5
-8450,China,Oil palm fruit,2016,13459.5
-8451,China,Oil palm fruit,2017,13467.4
-8452,China,Oil palm fruit,2018,13330.5
-8453,China,Oil palm fruit,2019,13264.9
-8454,China,Oil palm fruit,2020,13237.7
-8455,China,Oil palm fruit,2021,13189.7
-8456,China,Oil palm fruit,2022,13151.5
-8457,China,Oil palm fruit,2023,13113.4
-8458,China,"Other vegetables, fresh n.e.c.",1970,15358.4
-8459,China,"Other vegetables, fresh n.e.c.",1971,15510.8
-8460,China,"Other vegetables, fresh n.e.c.",1972,14663.8
-8461,China,"Other vegetables, fresh n.e.c.",1973,15003.3
-8462,China,"Other vegetables, fresh n.e.c.",1974,14991.3
-8463,China,"Other vegetables, fresh n.e.c.",1975,15150.4
-8464,China,"Other vegetables, fresh n.e.c.",1976,15047
-8465,China,"Other vegetables, fresh n.e.c.",1977,15099.1
-8466,China,"Other vegetables, fresh n.e.c.",1978,15043.2
-8467,China,"Other vegetables, fresh n.e.c.",1979,16170.3
-8468,China,"Other vegetables, fresh n.e.c.",1980,15952.4
-8469,China,"Other vegetables, fresh n.e.c.",1981,17699
-8470,China,"Other vegetables, fresh n.e.c.",1982,16734.6
-8471,China,"Other vegetables, fresh n.e.c.",1983,19486.6
-8472,China,"Other vegetables, fresh n.e.c.",1984,21590.1
-8473,China,"Other vegetables, fresh n.e.c.",1985,17695.2
-8474,China,"Other vegetables, fresh n.e.c.",1986,20163.4
-8475,China,"Other vegetables, fresh n.e.c.",1987,19580.5
-8476,China,"Other vegetables, fresh n.e.c.",1988,18997
-8477,China,"Other vegetables, fresh n.e.c.",1989,18553.6
-8478,China,"Other vegetables, fresh n.e.c.",1990,19279
-8479,China,"Other vegetables, fresh n.e.c.",1991,17988.7
-8480,China,"Other vegetables, fresh n.e.c.",1992,19710.6
-8481,China,"Other vegetables, fresh n.e.c.",1993,19269.3
-8482,China,"Other vegetables, fresh n.e.c.",1994,19065.1
-8483,China,"Other vegetables, fresh n.e.c.",1995,19070.6
-8484,China,"Other vegetables, fresh n.e.c.",1996,19200.3
-8485,China,"Other vegetables, fresh n.e.c.",1997,18466.2
-8486,China,"Other vegetables, fresh n.e.c.",1998,17890.2
-8487,China,"Other vegetables, fresh n.e.c.",1999,16728
-8488,China,"Other vegetables, fresh n.e.c.",2000,18065.4
-8489,China,"Other vegetables, fresh n.e.c.",2001,18102.1
-8490,China,"Other vegetables, fresh n.e.c.",2002,18452.2
-8491,China,"Other vegetables, fresh n.e.c.",2003,18244.4
-8492,China,"Other vegetables, fresh n.e.c.",2004,17355.9
-8493,China,"Other vegetables, fresh n.e.c.",2005,17163.6
-8494,China,"Other vegetables, fresh n.e.c.",2006,17404.3
-8495,China,"Other vegetables, fresh n.e.c.",2007,17154
-8496,China,"Other vegetables, fresh n.e.c.",2008,17069
-8497,China,"Other vegetables, fresh n.e.c.",2009,16423.5
-8498,China,"Other vegetables, fresh n.e.c.",2010,16427.2
-8499,China,"Other vegetables, fresh n.e.c.",2011,16437
-8500,China,"Other vegetables, fresh n.e.c.",2012,16568
-8501,China,"Other vegetables, fresh n.e.c.",2013,16584.8
-8502,China,"Other vegetables, fresh n.e.c.",2014,16340.2
-8503,China,"Other vegetables, fresh n.e.c.",2015,16205.5
-8504,China,"Other vegetables, fresh n.e.c.",2016,16367.7
-8505,China,"Other vegetables, fresh n.e.c.",2017,16083.9
-8506,China,"Other vegetables, fresh n.e.c.",2018,15903.1
-8507,China,"Other vegetables, fresh n.e.c.",2019,15742.2
-8508,China,"Other vegetables, fresh n.e.c.",2020,15907.4
-8509,China,"Other vegetables, fresh n.e.c.",2021,15848.6
-8510,China,"Other vegetables, fresh n.e.c.",2022,15830
-8511,China,"Other vegetables, fresh n.e.c.",2023,15862.3
-8512,China,Potatoes,1970,10748.9
-8513,China,Potatoes,1971,10477.9
-8514,China,Potatoes,1972,10218.8
-8515,China,Potatoes,1973,13498.6
-8516,China,Potatoes,1974,12998
-8517,China,Potatoes,1975,11570.4
-8518,China,Potatoes,1976,11299.6
-8519,China,Potatoes,1977,13235
-8520,China,Potatoes,1978,12747
-8521,China,Potatoes,1979,11138
-8522,China,Potatoes,1980,11244.7
-8523,China,Potatoes,1981,10280.9
-8524,China,Potatoes,1982,10892.4
-8525,China,Potatoes,1983,11375.4
-8526,China,Potatoes,1984,11657.8
-8527,China,Potatoes,1985,10801.5
-8528,China,Potatoes,1986,10006.5
-8529,China,Potatoes,1987,10314.2
-8530,China,Potatoes,1988,11517.7
-8531,China,Potatoes,1989,11009.3
-8532,China,Potatoes,1990,11320.9
-8533,China,Potatoes,1991,10565.4
-8534,China,Potatoes,1992,12620.5
-8535,China,Potatoes,1993,14872.9
-8536,China,Potatoes,1994,13658.4
-8537,China,Potatoes,1995,13384.4
-8538,China,Potatoes,1996,14199.7
-8539,China,Potatoes,1997,14965.5
-8540,China,Potatoes,1998,15891.6
-8541,China,Potatoes,1999,12703.2
-8542,China,Potatoes,2000,14035.3
-8543,China,Potatoes,2001,13684.4
-8544,China,Potatoes,2002,15040.5
-8545,China,Potatoes,2003,15061.5
-8546,China,Potatoes,2004,15711.2
-8547,China,Potatoes,2005,14526.3
-8548,China,Potatoes,2006,15316.8
-8549,China,Potatoes,2007,14628.3
-8550,China,Potatoes,2008,15182
-8551,China,Potatoes,2009,14417.1
-8552,China,Potatoes,2010,15668.6
-8553,China,Potatoes,2011,16282.6
-8554,China,Potatoes,2012,16771.2
-8555,China,Potatoes,2013,17091
-8556,China,Potatoes,2014,17141.6
-8557,China,Potatoes,2015,17312.3
-8558,China,Potatoes,2016,17686.6
-8559,China,Potatoes,2017,18208.5
-8560,China,Potatoes,2018,18972.2
-8561,China,Potatoes,2019,22175
-8562,China,Potatoes,2020,19858.8
-8563,China,Potatoes,2021,20368.4
-8564,China,Potatoes,2022,20354.7
-8565,China,Potatoes,2023,20450.9
-8566,China,Rice,1970,3416.2
-8567,China,Rice,1971,3314.5
-8568,China,Rice,1972,3247.5
-8569,China,Rice,1973,3481.8
-8570,China,Rice,1974,3503.3
-8571,China,Rice,1975,3528.3
-8572,China,Rice,1976,3495.7
-8573,China,Rice,1977,3637.3
-8574,China,Rice,1978,3980.9
-8575,China,Rice,1979,4249.1
-8576,China,Rice,1980,4143.5
-8577,China,Rice,1981,4331.5
-8578,China,Rice,1982,4888.8
-8579,China,Rice,1983,5091.8
-8580,China,Rice,1984,5363.4
-8581,China,Rice,1985,5249.8
-8582,China,Rice,1986,5327.2
-8583,China,Rice,1987,5403.5
-8584,China,Rice,1988,5281.9
-8585,China,Rice,1989,5500.5
-8586,China,Rice,1990,5716.6
-8587,China,Rice,1991,5636.9
-8588,China,Rice,1992,5795.9
-8589,China,Rice,1993,5846.2
-8590,China,Rice,1994,5828.8
-8591,China,Rice,1995,6021
-8592,China,Rice,1996,6205
-8593,China,Rice,1997,6311.1
-8594,China,Rice,1998,6352.9
-8595,China,Rice,1999,6334.4
-8596,China,Rice,2000,6264.2
-8597,China,Rice,2001,6152.4
-8598,China,Rice,2002,6185.6
-8599,China,Rice,2003,6060.6
-8600,China,Rice,2004,6308.4
-8601,China,Rice,2005,6252.7
-8602,China,Rice,2006,6276.4
-8603,China,Rice,2007,6422.4
-8604,China,Rice,2008,6555.8
-8605,China,Rice,2009,6582
-8606,China,Rice,2010,6548.2
-8607,China,Rice,2011,6686.2
-8608,China,Rice,2012,6774.7
-8609,China,Rice,2013,6710
-8610,China,Rice,2014,6809.5
-8611,China,Rice,2015,6886.3
-8612,China,Rice,2016,6856.3
-8613,China,Rice,2017,6912.2
-8614,China,Rice,2018,7028
-8615,China,Rice,2019,7056.2
-8616,China,Rice,2020,7040.2
-8617,China,Rice,2021,7112.4
-8618,China,Rice,2022,7075.7
-8619,China,Rice,2023,7132.5
-8620,China,Sugar cane,1970,41257.4
-8621,China,Sugar cane,1971,41020.6
-8622,China,Sugar cane,1972,41625.4
-8623,China,Sugar cane,1973,40737.6
-8624,China,Sugar cane,1974,42859.2
-8625,China,Sugar cane,1975,39229.4
-8626,China,Sugar cane,1976,39178
-8627,China,Sugar cane,1977,46126.6
-8628,China,Sugar cane,1978,44596.3
-8629,China,Sugar cane,1979,50109.5
-8630,China,Sugar cane,1980,54078.9
-8631,China,Sugar cane,1981,58321.8
-8632,China,Sugar cane,1982,59962.4
-8633,China,Sugar cane,1983,51580.3
-8634,China,Sugar cane,1984,57028.7
-8635,China,Sugar cane,1985,55784.8
-8636,China,Sugar cane,1986,55496.3
-8637,China,Sugar cane,1987,57077.2
-8638,China,Sugar cane,1988,56174.7
-8639,China,Sugar cane,1989,54031.8
-8640,China,Sugar cane,1990,58888.6
-8641,China,Sugar cane,1991,59239.6
-8642,China,Sugar cane,1992,60209.5
-8643,China,Sugar cane,1993,59867.2
-8644,China,Sugar cane,1994,59344.2
-8645,China,Sugar cane,1995,59264.5
-8646,China,Sugar cane,1996,57511.7
-8647,China,Sugar cane,1997,60959.7
-8648,China,Sugar cane,1998,60191.2
-8649,China,Sugar cane,1999,58063.5
-8650,China,Sugar cane,2000,58284.1
-8651,China,Sugar cane,2001,60860.9
-8652,China,Sugar cane,2002,64896.2
-8653,China,Sugar cane,2003,64263.2
-8654,China,Sugar cane,2004,65360
-8655,China,Sugar cane,2005,64125.7
-8656,China,Sugar cane,2006,70407.4
-8657,China,Sugar cane,2007,71242.3
-8658,China,Sugar cane,2008,71218.9
-8659,China,Sugar cane,2009,68079.3
-8660,China,Sugar cane,2010,65739.6
-8661,China,Sugar cane,2011,66529.6
-8662,China,Sugar cane,2012,68590.4
-8663,China,Sugar cane,2013,70542
-8664,China,Sugar cane,2014,71338.1
-8665,China,Sugar cane,2015,72522
-8666,China,Sugar cane,2016,73523.2
-8667,China,Sugar cane,2017,76040.8
-8668,China,Sugar cane,2018,76834.7
-8669,China,Sugar cane,2019,78580
-8670,China,Sugar cane,2020,79781
-8671,China,Sugar cane,2021,80976.2
-8672,China,Sugar cane,2022,80100.4
-8673,China,Sugar cane,2023,80257.5
-8674,China,Wheat,1970,1147.6
-8675,China,Wheat,1971,1271.8
-8676,China,Wheat,1972,1369.5
-8677,China,Wheat,1973,1333.7
-8678,China,Wheat,1974,1511.6
-8679,China,Wheat,1975,1639.7
-8680,China,Wheat,1976,1775.4
-8681,China,Wheat,1977,1465
-8682,China,Wheat,1978,1844.9
-8683,China,Wheat,1979,2139.5
-8684,China,Wheat,1980,1891.4
-8685,China,Wheat,1981,2109.1
-8686,China,Wheat,1982,2451.7
-8687,China,Wheat,1983,2801.7
-8688,China,Wheat,1984,2969.1
-8689,China,Wheat,1985,2936.7
-8690,China,Wheat,1986,3040.3
-8691,China,Wheat,1987,2982.9
-8692,China,Wheat,1988,2967.9
-8693,China,Wheat,1989,3043
-8694,China,Wheat,1990,3194.1
-8695,China,Wheat,1991,3100.4
-8696,China,Wheat,1992,3331.2
-8697,China,Wheat,1993,3518.8
-8698,China,Wheat,1994,3426.3
-8699,China,Wheat,1995,3541.5
-8700,China,Wheat,1996,3734.1
-8701,China,Wheat,1997,4101.9
-8702,China,Wheat,1998,3685.2
-8703,China,Wheat,1999,3946.6
-8704,China,Wheat,2000,3738.2
-8705,China,Wheat,2001,3806.1
-8706,China,Wheat,2002,3776.6
-8707,China,Wheat,2003,3931.8
-8708,China,Wheat,2004,4251.9
-8709,China,Wheat,2005,4275.3
-8710,China,Wheat,2006,4593.5
-8711,China,Wheat,2007,4607.6
-8712,China,Wheat,2008,4762
-8713,China,Wheat,2009,4739
-8714,China,Wheat,2010,4748.4
-8715,China,Wheat,2011,4837.4
-8716,China,Wheat,2012,4986.8
-8717,China,Wheat,2013,5055.3
-8718,China,Wheat,2014,5243.3
-8719,China,Wheat,2015,5392.3
-8720,China,Wheat,2016,5396.1
-8721,China,Wheat,2017,5483.8
-8722,China,Wheat,2018,5416.3
-8723,China,Wheat,2019,5629.4
-8724,China,Wheat,2020,5741.6
-8725,China,Wheat,2021,5810.2
-8726,China,Wheat,2022,5855.2
-8727,China,Wheat,2023,5780.8
 8728,"China, Hong Kong SAR","Other vegetables, fresh n.e.c.",1970,25806.5
 8729,"China, Hong Kong SAR","Other vegetables, fresh n.e.c.",1971,26800
 8730,"China, Hong Kong SAR","Other vegetables, fresh n.e.c.",1972,20000
@@ -44716,276 +44353,276 @@
 44715,Venezuela (Bolivarian Republic of),Wheat,2021,2827.2
 44716,Venezuela (Bolivarian Republic of),Wheat,2022,2785.3
 44717,Venezuela (Bolivarian Republic of),Wheat,2023,2759.2
-44718,Viet Nam,Maize (corn),1970,1101
-44719,Viet Nam,Maize (corn),1971,1003.8
-44720,Viet Nam,Maize (corn),1972,1111.3
-44721,Viet Nam,Maize (corn),1973,1252.1
-44722,Viet Nam,Maize (corn),1974,1260
-44723,Viet Nam,Maize (corn),1975,1050.5
-44724,Viet Nam,Maize (corn),1976,1149.1
-44725,Viet Nam,Maize (corn),1977,1002
-44726,Viet Nam,Maize (corn),1978,1104.5
-44727,Viet Nam,Maize (corn),1979,991.7
-44728,Viet Nam,Maize (corn),1980,1100.6
-44729,Viet Nam,Maize (corn),1981,1117
-44730,Viet Nam,Maize (corn),1982,1148.7
-44731,Viet Nam,Maize (corn),1983,1237.1
-44732,Viet Nam,Maize (corn),1984,1377
-44733,Viet Nam,Maize (corn),1985,1477.7
-44734,Viet Nam,Maize (corn),1986,1421.3
-44735,Viet Nam,Maize (corn),1987,1383.1
-44736,Viet Nam,Maize (corn),1988,1596.2
-44737,Viet Nam,Maize (corn),1989,1644.9
-44738,Viet Nam,Maize (corn),1990,1554
-44739,Viet Nam,Maize (corn),1991,1501.3
-44740,Viet Nam,Maize (corn),1992,1564.6
-44741,Viet Nam,Maize (corn),1993,1776.8
-44742,Viet Nam,Maize (corn),1994,2139.3
-44743,Viet Nam,Maize (corn),1995,2114.2
-44744,Viet Nam,Maize (corn),1996,2497.9
-44745,Viet Nam,Maize (corn),1997,2490
-44746,Viet Nam,Maize (corn),1998,2471
-44747,Viet Nam,Maize (corn),1999,2534.1
-44748,Viet Nam,Maize (corn),2000,2747.1
-44749,Viet Nam,Maize (corn),2001,2963.3
-44750,Viet Nam,Maize (corn),2002,3075.9
-44751,Viet Nam,Maize (corn),2003,3436.3
-44752,Viet Nam,Maize (corn),2004,3461.7
-44753,Viet Nam,Maize (corn),2005,3597.9
-44754,Viet Nam,Maize (corn),2006,3731
-44755,Viet Nam,Maize (corn),2007,3925.9
-44756,Viet Nam,Maize (corn),2008,3175.3
-44757,Viet Nam,Maize (corn),2009,4013.7
-44758,Viet Nam,Maize (corn),2010,4089.9
-44759,Viet Nam,Maize (corn),2011,4312.8
-44760,Viet Nam,Maize (corn),2012,4301.9
-44761,Viet Nam,Maize (corn),2013,4435.4
-44762,Viet Nam,Maize (corn),2014,4414
-44763,Viet Nam,Maize (corn),2015,4539.4
-44764,Viet Nam,Maize (corn),2016,4552.9
-44765,Viet Nam,Maize (corn),2017,4648.3
-44766,Viet Nam,Maize (corn),2018,4720.2
-44767,Viet Nam,Maize (corn),2019,4803.4
-44768,Viet Nam,Maize (corn),2020,4851.3
-44769,Viet Nam,Maize (corn),2021,4936.7
-44770,Viet Nam,Maize (corn),2022,4995.7
-44771,Viet Nam,Maize (corn),2023,5041.1
-44772,Viet Nam,"Other vegetables, fresh n.e.c.",1970,10105.3
-44773,Viet Nam,"Other vegetables, fresh n.e.c.",1971,10210.5
-44774,Viet Nam,"Other vegetables, fresh n.e.c.",1972,10105.3
-44775,Viet Nam,"Other vegetables, fresh n.e.c.",1973,10000
-44776,Viet Nam,"Other vegetables, fresh n.e.c.",1974,10000
-44777,Viet Nam,"Other vegetables, fresh n.e.c.",1975,9750
-44778,Viet Nam,"Other vegetables, fresh n.e.c.",1976,10000
-44779,Viet Nam,"Other vegetables, fresh n.e.c.",1977,9761.9
-44780,Viet Nam,"Other vegetables, fresh n.e.c.",1978,9767.4
-44781,Viet Nam,"Other vegetables, fresh n.e.c.",1979,9772.7
-44782,Viet Nam,"Other vegetables, fresh n.e.c.",1980,9840
-44783,Viet Nam,"Other vegetables, fresh n.e.c.",1981,10454.5
-44784,Viet Nam,"Other vegetables, fresh n.e.c.",1982,10590.9
-44785,Viet Nam,"Other vegetables, fresh n.e.c.",1983,11363.6
-44786,Viet Nam,"Other vegetables, fresh n.e.c.",1984,11773.3
-44787,Viet Nam,"Other vegetables, fresh n.e.c.",1985,10191.3
-44788,Viet Nam,"Other vegetables, fresh n.e.c.",1986,11108.3
-44789,Viet Nam,"Other vegetables, fresh n.e.c.",1987,10951.9
-44790,Viet Nam,"Other vegetables, fresh n.e.c.",1988,10830
-44791,Viet Nam,"Other vegetables, fresh n.e.c.",1989,11400.8
-44792,Viet Nam,"Other vegetables, fresh n.e.c.",1990,11235.2
-44793,Viet Nam,"Other vegetables, fresh n.e.c.",1991,11969.1
-44794,Viet Nam,"Other vegetables, fresh n.e.c.",1992,11828.6
-44795,Viet Nam,"Other vegetables, fresh n.e.c.",1993,11881.7
-44796,Viet Nam,"Other vegetables, fresh n.e.c.",1994,12459.1
-44797,Viet Nam,"Other vegetables, fresh n.e.c.",1995,12631.3
-44798,Viet Nam,"Other vegetables, fresh n.e.c.",1996,13096.5
-44799,Viet Nam,"Other vegetables, fresh n.e.c.",1997,13182.8
-44800,Viet Nam,"Other vegetables, fresh n.e.c.",1998,12830.1
-44801,Viet Nam,"Other vegetables, fresh n.e.c.",1999,11745.2
-44802,Viet Nam,"Other vegetables, fresh n.e.c.",2000,12435.6
-44803,Viet Nam,"Other vegetables, fresh n.e.c.",2001,12695.4
-44804,Viet Nam,"Other vegetables, fresh n.e.c.",2002,12470.6
-44805,Viet Nam,"Other vegetables, fresh n.e.c.",2003,12404.5
-44806,Viet Nam,"Other vegetables, fresh n.e.c.",2004,12403.8
-44807,Viet Nam,"Other vegetables, fresh n.e.c.",2005,12571.4
-44808,Viet Nam,"Other vegetables, fresh n.e.c.",2006,13202.4
-44809,Viet Nam,"Other vegetables, fresh n.e.c.",2007,14296.7
-44810,Viet Nam,"Other vegetables, fresh n.e.c.",2008,15445.9
-44811,Viet Nam,"Other vegetables, fresh n.e.c.",2009,16250
-44812,Viet Nam,"Other vegetables, fresh n.e.c.",2010,16244.5
-44813,Viet Nam,"Other vegetables, fresh n.e.c.",2011,15715.1
-44814,Viet Nam,"Other vegetables, fresh n.e.c.",2012,16121.9
-44815,Viet Nam,"Other vegetables, fresh n.e.c.",2013,14383.3
-44816,Viet Nam,"Other vegetables, fresh n.e.c.",2014,14755.5
-44817,Viet Nam,"Other vegetables, fresh n.e.c.",2015,16503.6
-44818,Viet Nam,"Other vegetables, fresh n.e.c.",2016,16913.2
-44819,Viet Nam,"Other vegetables, fresh n.e.c.",2017,16895.1
-44820,Viet Nam,"Other vegetables, fresh n.e.c.",2018,17188.3
-44821,Viet Nam,"Other vegetables, fresh n.e.c.",2019,17840.7
-44822,Viet Nam,"Other vegetables, fresh n.e.c.",2020,18094.8
-44823,Viet Nam,"Other vegetables, fresh n.e.c.",2021,17969.8
-44824,Viet Nam,"Other vegetables, fresh n.e.c.",2022,18099.9
-44825,Viet Nam,"Other vegetables, fresh n.e.c.",2023,18301.1
-44826,Viet Nam,Potatoes,1970,16666.7
-44827,Viet Nam,Potatoes,1971,15000
-44828,Viet Nam,Potatoes,1972,17500
-44829,Viet Nam,Potatoes,1973,15000
-44830,Viet Nam,Potatoes,1974,12000
-44831,Viet Nam,Potatoes,1975,11111.1
-44832,Viet Nam,Potatoes,1976,10256.2
-44833,Viet Nam,Potatoes,1977,9241
-44834,Viet Nam,Potatoes,1978,9378.3
-44835,Viet Nam,Potatoes,1979,6521.5
-44836,Viet Nam,Potatoes,1980,9288.6
-44837,Viet Nam,Potatoes,1981,8012.2
-44838,Viet Nam,Potatoes,1982,9279.7
-44839,Viet Nam,Potatoes,1983,8131.2
-44840,Viet Nam,Potatoes,1984,9330.1
-44841,Viet Nam,Potatoes,1985,8005.1
-44842,Viet Nam,Potatoes,1986,9215.4
-44843,Viet Nam,Potatoes,1987,12482.5
-44844,Viet Nam,Potatoes,1988,9163.6
-44845,Viet Nam,Potatoes,1989,10017.9
-44846,Viet Nam,Potatoes,1990,9953.7
-44847,Viet Nam,Potatoes,1991,8990.5
-44848,Viet Nam,Potatoes,1992,10089.5
-44849,Viet Nam,Potatoes,1993,9558.8
-44850,Viet Nam,Potatoes,1994,9500
-44851,Viet Nam,Potatoes,1995,10000
-44852,Viet Nam,Potatoes,1996,10000
-44853,Viet Nam,Potatoes,1997,9722.2
-44854,Viet Nam,Potatoes,1998,9848.4
-44855,Viet Nam,Potatoes,1999,11785.7
-44856,Viet Nam,Potatoes,2000,11275.1
-44857,Viet Nam,Potatoes,2001,10531.7
-44858,Viet Nam,Potatoes,2002,11758.5
-44859,Viet Nam,Potatoes,2003,10693.5
-44860,Viet Nam,Potatoes,2004,10735.3
-44861,Viet Nam,Potatoes,2005,10571.4
-44862,Viet Nam,Potatoes,2006,10571.4
-44863,Viet Nam,Potatoes,2007,10333.3
-44864,Viet Nam,Potatoes,2008,10555.6
-44865,Viet Nam,Potatoes,2009,10486.5
-44866,Viet Nam,Potatoes,2010,11898.6
-44867,Viet Nam,Potatoes,2011,13781
-44868,Viet Nam,Potatoes,2012,14635.2
-44869,Viet Nam,Potatoes,2013,13580
-44870,Viet Nam,Potatoes,2014,14095.4
-44871,Viet Nam,Potatoes,2015,14624.3
-44872,Viet Nam,Potatoes,2016,14274
-44873,Viet Nam,Potatoes,2017,14827.6
-44874,Viet Nam,Potatoes,2018,15254.8
-44875,Viet Nam,Potatoes,2019,15439.2
-44876,Viet Nam,Potatoes,2020,15640.1
-44877,Viet Nam,Potatoes,2021,16538.2
-44878,Viet Nam,Potatoes,2022,16735.6
-44879,Viet Nam,Potatoes,2023,16847.4
-44880,Viet Nam,Rice,1970,2153.4
-44881,Viet Nam,Rice,1971,2226.5
-44882,Viet Nam,Rice,1972,2193.5
-44883,Viet Nam,Rice,1973,2211.7
-44884,Viet Nam,Rice,1974,2156.4
-44885,Viet Nam,Rice,1975,2119.8
-44886,Viet Nam,Rice,1976,2232.7
-44887,Viet Nam,Rice,1977,1937.8
-44888,Viet Nam,Rice,1978,1792.2
-44889,Viet Nam,Rice,1979,2071.6
-44890,Viet Nam,Rice,1980,2079.8
-44891,Viet Nam,Rice,1981,2196.6
-44892,Viet Nam,Rice,1982,2519.4
-44893,Viet Nam,Rice,1983,2627.2
-44894,Viet Nam,Rice,1984,2732.3
-44895,Viet Nam,Rice,1985,2776.1
-44896,Viet Nam,Rice,1986,2806
-44897,Viet Nam,Rice,1987,2695.4
-44898,Viet Nam,Rice,1988,2961.3
-44899,Viet Nam,Rice,1989,3213.6
-44900,Viet Nam,Rice,1990,3181.5
-44901,Viet Nam,Rice,1991,3113.3
-44902,Viet Nam,Rice,1992,3334.2
-44903,Viet Nam,Rice,1993,3481.5
-44904,Viet Nam,Rice,1994,3565.7
-44905,Viet Nam,Rice,1995,3689.8
-44906,Viet Nam,Rice,1996,3768.9
-44907,Viet Nam,Rice,1997,3876.8
-44908,Viet Nam,Rice,1998,4000.7
-44909,Viet Nam,Rice,1999,4101.8
-44910,Viet Nam,Rice,2000,4243.2
-44911,Viet Nam,Rice,2001,4285.3
-44912,Viet Nam,Rice,2002,4590.3
-44913,Viet Nam,Rice,2003,4638.7
-44914,Viet Nam,Rice,2004,4855.3
-44915,Viet Nam,Rice,2005,4889.1
-44916,Viet Nam,Rice,2006,4894.3
-44917,Viet Nam,Rice,2007,4986.9
-44918,Viet Nam,Rice,2008,5233.6
-44919,Viet Nam,Rice,2009,5237.2
-44920,Viet Nam,Rice,2010,5341.6
-44921,Viet Nam,Rice,2011,5538.3
-44922,Viet Nam,Rice,2012,5635.3
-44923,Viet Nam,Rice,2013,5572.6
-44924,Viet Nam,Rice,2014,5753.8
-44925,Viet Nam,Rice,2015,5759.7
-44926,Viet Nam,Rice,2016,5573.8
-44927,Viet Nam,Rice,2017,5547.6
-44928,Viet Nam,Rice,2018,5818
-44929,Viet Nam,Rice,2019,5837.1
-44930,Viet Nam,Rice,2020,5921.2
-44931,Viet Nam,Rice,2021,6074
-44932,Viet Nam,Rice,2022,6018
-44933,Viet Nam,Rice,2023,6113.5
-44934,Viet Nam,Sugar cane,1970,38966.7
-44935,Viet Nam,Sugar cane,1971,39711.2
-44936,Viet Nam,Sugar cane,1972,39375
-44937,Viet Nam,Sugar cane,1973,32500
-44938,Viet Nam,Sugar cane,1974,30851.1
-44939,Viet Nam,Sugar cane,1975,37473.2
-44940,Viet Nam,Sugar cane,1976,40085.9
-44941,Viet Nam,Sugar cane,1977,38745.5
-44942,Viet Nam,Sugar cane,1978,38264.7
-44943,Viet Nam,Sugar cane,1979,39896
-44944,Viet Nam,Sugar cane,1980,39742.9
-44945,Viet Nam,Sugar cane,1981,35974.6
-44946,Viet Nam,Sugar cane,1982,37888.2
-44947,Viet Nam,Sugar cane,1983,38995.9
-44948,Viet Nam,Sugar cane,1984,39749.4
-44949,Viet Nam,Sugar cane,1985,38824.7
-44950,Viet Nam,Sugar cane,1986,39667.7
-44951,Viet Nam,Sugar cane,1987,39878.9
-44952,Viet Nam,Sugar cane,1988,40109.8
-44953,Viet Nam,Sugar cane,1989,40367.1
-44954,Viet Nam,Sugar cane,1990,41327.2
-44955,Viet Nam,Sugar cane,1991,42664.6
-44956,Viet Nam,Sugar cane,1992,43938.6
-44957,Viet Nam,Sugar cane,1993,42477
-44958,Viet Nam,Sugar cane,1994,45318.7
-44959,Viet Nam,Sugar cane,1995,47647.2
-44960,Viet Nam,Sugar cane,1996,48229.1
-44961,Viet Nam,Sugar cane,1997,46384.8
-44962,Viet Nam,Sugar cane,1998,49575.9
-44963,Viet Nam,Sugar cane,1999,51598.8
-44964,Viet Nam,Sugar cane,2000,49766.1
-44965,Viet Nam,Sugar cane,2001,50419.3
-44966,Viet Nam,Sugar cane,2002,53500
-44967,Viet Nam,Sugar cane,2003,53814.5
-44968,Viet Nam,Sugar cane,2004,54698.7
-44969,Viet Nam,Sugar cane,2005,56134.8
-44970,Viet Nam,Sugar cane,2006,58033.7
-44971,Viet Nam,Sugar cane,2007,59293.5
-44972,Viet Nam,Sugar cane,2008,59643.5
-44973,Viet Nam,Sugar cane,2009,58766.2
-44974,Viet Nam,Sugar cane,2010,60058.3
-44975,Viet Nam,Sugar cane,2011,62141
-44976,Viet Nam,Sugar cane,2012,62981.4
-44977,Viet Nam,Sugar cane,2013,64875.7
-44978,Viet Nam,Sugar cane,2014,64999.6
-44979,Viet Nam,Sugar cane,2015,64508.3
-44980,Viet Nam,Sugar cane,2016,63643.2
-44981,Viet Nam,Sugar cane,2017,65290.6
-44982,Viet Nam,Sugar cane,2018,66603.3
-44983,Viet Nam,Sugar cane,2019,65961.4
-44984,Viet Nam,Sugar cane,2020,62203
-44985,Viet Nam,Sugar cane,2021,64735.5
-44986,Viet Nam,Sugar cane,2022,65438.3
-44987,Viet Nam,Sugar cane,2023,67749.9
+44718,Vietnam,Maize (corn),1970,1101
+44719,Vietnam,Maize (corn),1971,1003.8
+44720,Vietnam,Maize (corn),1972,1111.3
+44721,Vietnam,Maize (corn),1973,1252.1
+44722,Vietnam,Maize (corn),1974,1260
+44723,Vietnam,Maize (corn),1975,1050.5
+44724,Vietnam,Maize (corn),1976,1149.1
+44725,Vietnam,Maize (corn),1977,1002
+44726,Vietnam,Maize (corn),1978,1104.5
+44727,Vietnam,Maize (corn),1979,991.7
+44728,Vietnam,Maize (corn),1980,1100.6
+44729,Vietnam,Maize (corn),1981,1117
+44730,Vietnam,Maize (corn),1982,1148.7
+44731,Vietnam,Maize (corn),1983,1237.1
+44732,Vietnam,Maize (corn),1984,1377
+44733,Vietnam,Maize (corn),1985,1477.7
+44734,Vietnam,Maize (corn),1986,1421.3
+44735,Vietnam,Maize (corn),1987,1383.1
+44736,Vietnam,Maize (corn),1988,1596.2
+44737,Vietnam,Maize (corn),1989,1644.9
+44738,Vietnam,Maize (corn),1990,1554
+44739,Vietnam,Maize (corn),1991,1501.3
+44740,Vietnam,Maize (corn),1992,1564.6
+44741,Vietnam,Maize (corn),1993,1776.8
+44742,Vietnam,Maize (corn),1994,2139.3
+44743,Vietnam,Maize (corn),1995,2114.2
+44744,Vietnam,Maize (corn),1996,2497.9
+44745,Vietnam,Maize (corn),1997,2490
+44746,Vietnam,Maize (corn),1998,2471
+44747,Vietnam,Maize (corn),1999,2534.1
+44748,Vietnam,Maize (corn),2000,2747.1
+44749,Vietnam,Maize (corn),2001,2963.3
+44750,Vietnam,Maize (corn),2002,3075.9
+44751,Vietnam,Maize (corn),2003,3436.3
+44752,Vietnam,Maize (corn),2004,3461.7
+44753,Vietnam,Maize (corn),2005,3597.9
+44754,Vietnam,Maize (corn),2006,3731
+44755,Vietnam,Maize (corn),2007,3925.9
+44756,Vietnam,Maize (corn),2008,3175.3
+44757,Vietnam,Maize (corn),2009,4013.7
+44758,Vietnam,Maize (corn),2010,4089.9
+44759,Vietnam,Maize (corn),2011,4312.8
+44760,Vietnam,Maize (corn),2012,4301.9
+44761,Vietnam,Maize (corn),2013,4435.4
+44762,Vietnam,Maize (corn),2014,4414
+44763,Vietnam,Maize (corn),2015,4539.4
+44764,Vietnam,Maize (corn),2016,4552.9
+44765,Vietnam,Maize (corn),2017,4648.3
+44766,Vietnam,Maize (corn),2018,4720.2
+44767,Vietnam,Maize (corn),2019,4803.4
+44768,Vietnam,Maize (corn),2020,4851.3
+44769,Vietnam,Maize (corn),2021,4936.7
+44770,Vietnam,Maize (corn),2022,4995.7
+44771,Vietnam,Maize (corn),2023,5041.1
+44772,Vietnam,"Other vegetables, fresh n.e.c.",1970,10105.3
+44773,Vietnam,"Other vegetables, fresh n.e.c.",1971,10210.5
+44774,Vietnam,"Other vegetables, fresh n.e.c.",1972,10105.3
+44775,Vietnam,"Other vegetables, fresh n.e.c.",1973,10000
+44776,Vietnam,"Other vegetables, fresh n.e.c.",1974,10000
+44777,Vietnam,"Other vegetables, fresh n.e.c.",1975,9750
+44778,Vietnam,"Other vegetables, fresh n.e.c.",1976,10000
+44779,Vietnam,"Other vegetables, fresh n.e.c.",1977,9761.9
+44780,Vietnam,"Other vegetables, fresh n.e.c.",1978,9767.4
+44781,Vietnam,"Other vegetables, fresh n.e.c.",1979,9772.7
+44782,Vietnam,"Other vegetables, fresh n.e.c.",1980,9840
+44783,Vietnam,"Other vegetables, fresh n.e.c.",1981,10454.5
+44784,Vietnam,"Other vegetables, fresh n.e.c.",1982,10590.9
+44785,Vietnam,"Other vegetables, fresh n.e.c.",1983,11363.6
+44786,Vietnam,"Other vegetables, fresh n.e.c.",1984,11773.3
+44787,Vietnam,"Other vegetables, fresh n.e.c.",1985,10191.3
+44788,Vietnam,"Other vegetables, fresh n.e.c.",1986,11108.3
+44789,Vietnam,"Other vegetables, fresh n.e.c.",1987,10951.9
+44790,Vietnam,"Other vegetables, fresh n.e.c.",1988,10830
+44791,Vietnam,"Other vegetables, fresh n.e.c.",1989,11400.8
+44792,Vietnam,"Other vegetables, fresh n.e.c.",1990,11235.2
+44793,Vietnam,"Other vegetables, fresh n.e.c.",1991,11969.1
+44794,Vietnam,"Other vegetables, fresh n.e.c.",1992,11828.6
+44795,Vietnam,"Other vegetables, fresh n.e.c.",1993,11881.7
+44796,Vietnam,"Other vegetables, fresh n.e.c.",1994,12459.1
+44797,Vietnam,"Other vegetables, fresh n.e.c.",1995,12631.3
+44798,Vietnam,"Other vegetables, fresh n.e.c.",1996,13096.5
+44799,Vietnam,"Other vegetables, fresh n.e.c.",1997,13182.8
+44800,Vietnam,"Other vegetables, fresh n.e.c.",1998,12830.1
+44801,Vietnam,"Other vegetables, fresh n.e.c.",1999,11745.2
+44802,Vietnam,"Other vegetables, fresh n.e.c.",2000,12435.6
+44803,Vietnam,"Other vegetables, fresh n.e.c.",2001,12695.4
+44804,Vietnam,"Other vegetables, fresh n.e.c.",2002,12470.6
+44805,Vietnam,"Other vegetables, fresh n.e.c.",2003,12404.5
+44806,Vietnam,"Other vegetables, fresh n.e.c.",2004,12403.8
+44807,Vietnam,"Other vegetables, fresh n.e.c.",2005,12571.4
+44808,Vietnam,"Other vegetables, fresh n.e.c.",2006,13202.4
+44809,Vietnam,"Other vegetables, fresh n.e.c.",2007,14296.7
+44810,Vietnam,"Other vegetables, fresh n.e.c.",2008,15445.9
+44811,Vietnam,"Other vegetables, fresh n.e.c.",2009,16250
+44812,Vietnam,"Other vegetables, fresh n.e.c.",2010,16244.5
+44813,Vietnam,"Other vegetables, fresh n.e.c.",2011,15715.1
+44814,Vietnam,"Other vegetables, fresh n.e.c.",2012,16121.9
+44815,Vietnam,"Other vegetables, fresh n.e.c.",2013,14383.3
+44816,Vietnam,"Other vegetables, fresh n.e.c.",2014,14755.5
+44817,Vietnam,"Other vegetables, fresh n.e.c.",2015,16503.6
+44818,Vietnam,"Other vegetables, fresh n.e.c.",2016,16913.2
+44819,Vietnam,"Other vegetables, fresh n.e.c.",2017,16895.1
+44820,Vietnam,"Other vegetables, fresh n.e.c.",2018,17188.3
+44821,Vietnam,"Other vegetables, fresh n.e.c.",2019,17840.7
+44822,Vietnam,"Other vegetables, fresh n.e.c.",2020,18094.8
+44823,Vietnam,"Other vegetables, fresh n.e.c.",2021,17969.8
+44824,Vietnam,"Other vegetables, fresh n.e.c.",2022,18099.9
+44825,Vietnam,"Other vegetables, fresh n.e.c.",2023,18301.1
+44826,Vietnam,Potatoes,1970,16666.7
+44827,Vietnam,Potatoes,1971,15000
+44828,Vietnam,Potatoes,1972,17500
+44829,Vietnam,Potatoes,1973,15000
+44830,Vietnam,Potatoes,1974,12000
+44831,Vietnam,Potatoes,1975,11111.1
+44832,Vietnam,Potatoes,1976,10256.2
+44833,Vietnam,Potatoes,1977,9241
+44834,Vietnam,Potatoes,1978,9378.3
+44835,Vietnam,Potatoes,1979,6521.5
+44836,Vietnam,Potatoes,1980,9288.6
+44837,Vietnam,Potatoes,1981,8012.2
+44838,Vietnam,Potatoes,1982,9279.7
+44839,Vietnam,Potatoes,1983,8131.2
+44840,Vietnam,Potatoes,1984,9330.1
+44841,Vietnam,Potatoes,1985,8005.1
+44842,Vietnam,Potatoes,1986,9215.4
+44843,Vietnam,Potatoes,1987,12482.5
+44844,Vietnam,Potatoes,1988,9163.6
+44845,Vietnam,Potatoes,1989,10017.9
+44846,Vietnam,Potatoes,1990,9953.7
+44847,Vietnam,Potatoes,1991,8990.5
+44848,Vietnam,Potatoes,1992,10089.5
+44849,Vietnam,Potatoes,1993,9558.8
+44850,Vietnam,Potatoes,1994,9500
+44851,Vietnam,Potatoes,1995,10000
+44852,Vietnam,Potatoes,1996,10000
+44853,Vietnam,Potatoes,1997,9722.2
+44854,Vietnam,Potatoes,1998,9848.4
+44855,Vietnam,Potatoes,1999,11785.7
+44856,Vietnam,Potatoes,2000,11275.1
+44857,Vietnam,Potatoes,2001,10531.7
+44858,Vietnam,Potatoes,2002,11758.5
+44859,Vietnam,Potatoes,2003,10693.5
+44860,Vietnam,Potatoes,2004,10735.3
+44861,Vietnam,Potatoes,2005,10571.4
+44862,Vietnam,Potatoes,2006,10571.4
+44863,Vietnam,Potatoes,2007,10333.3
+44864,Vietnam,Potatoes,2008,10555.6
+44865,Vietnam,Potatoes,2009,10486.5
+44866,Vietnam,Potatoes,2010,11898.6
+44867,Vietnam,Potatoes,2011,13781
+44868,Vietnam,Potatoes,2012,14635.2
+44869,Vietnam,Potatoes,2013,13580
+44870,Vietnam,Potatoes,2014,14095.4
+44871,Vietnam,Potatoes,2015,14624.3
+44872,Vietnam,Potatoes,2016,14274
+44873,Vietnam,Potatoes,2017,14827.6
+44874,Vietnam,Potatoes,2018,15254.8
+44875,Vietnam,Potatoes,2019,15439.2
+44876,Vietnam,Potatoes,2020,15640.1
+44877,Vietnam,Potatoes,2021,16538.2
+44878,Vietnam,Potatoes,2022,16735.6
+44879,Vietnam,Potatoes,2023,16847.4
+44880,Vietnam,Rice,1970,2153.4
+44881,Vietnam,Rice,1971,2226.5
+44882,Vietnam,Rice,1972,2193.5
+44883,Vietnam,Rice,1973,2211.7
+44884,Vietnam,Rice,1974,2156.4
+44885,Vietnam,Rice,1975,2119.8
+44886,Vietnam,Rice,1976,2232.7
+44887,Vietnam,Rice,1977,1937.8
+44888,Vietnam,Rice,1978,1792.2
+44889,Vietnam,Rice,1979,2071.6
+44890,Vietnam,Rice,1980,2079.8
+44891,Vietnam,Rice,1981,2196.6
+44892,Vietnam,Rice,1982,2519.4
+44893,Vietnam,Rice,1983,2627.2
+44894,Vietnam,Rice,1984,2732.3
+44895,Vietnam,Rice,1985,2776.1
+44896,Vietnam,Rice,1986,2806
+44897,Vietnam,Rice,1987,2695.4
+44898,Vietnam,Rice,1988,2961.3
+44899,Vietnam,Rice,1989,3213.6
+44900,Vietnam,Rice,1990,3181.5
+44901,Vietnam,Rice,1991,3113.3
+44902,Vietnam,Rice,1992,3334.2
+44903,Vietnam,Rice,1993,3481.5
+44904,Vietnam,Rice,1994,3565.7
+44905,Vietnam,Rice,1995,3689.8
+44906,Vietnam,Rice,1996,3768.9
+44907,Vietnam,Rice,1997,3876.8
+44908,Vietnam,Rice,1998,4000.7
+44909,Vietnam,Rice,1999,4101.8
+44910,Vietnam,Rice,2000,4243.2
+44911,Vietnam,Rice,2001,4285.3
+44912,Vietnam,Rice,2002,4590.3
+44913,Vietnam,Rice,2003,4638.7
+44914,Vietnam,Rice,2004,4855.3
+44915,Vietnam,Rice,2005,4889.1
+44916,Vietnam,Rice,2006,4894.3
+44917,Vietnam,Rice,2007,4986.9
+44918,Vietnam,Rice,2008,5233.6
+44919,Vietnam,Rice,2009,5237.2
+44920,Vietnam,Rice,2010,5341.6
+44921,Vietnam,Rice,2011,5538.3
+44922,Vietnam,Rice,2012,5635.3
+44923,Vietnam,Rice,2013,5572.6
+44924,Vietnam,Rice,2014,5753.8
+44925,Vietnam,Rice,2015,5759.7
+44926,Vietnam,Rice,2016,5573.8
+44927,Vietnam,Rice,2017,5547.6
+44928,Vietnam,Rice,2018,5818
+44929,Vietnam,Rice,2019,5837.1
+44930,Vietnam,Rice,2020,5921.2
+44931,Vietnam,Rice,2021,6074
+44932,Vietnam,Rice,2022,6018
+44933,Vietnam,Rice,2023,6113.5
+44934,Vietnam,Sugar cane,1970,38966.7
+44935,Vietnam,Sugar cane,1971,39711.2
+44936,Vietnam,Sugar cane,1972,39375
+44937,Vietnam,Sugar cane,1973,32500
+44938,Vietnam,Sugar cane,1974,30851.1
+44939,Vietnam,Sugar cane,1975,37473.2
+44940,Vietnam,Sugar cane,1976,40085.9
+44941,Vietnam,Sugar cane,1977,38745.5
+44942,Vietnam,Sugar cane,1978,38264.7
+44943,Vietnam,Sugar cane,1979,39896
+44944,Vietnam,Sugar cane,1980,39742.9
+44945,Vietnam,Sugar cane,1981,35974.6
+44946,Vietnam,Sugar cane,1982,37888.2
+44947,Vietnam,Sugar cane,1983,38995.9
+44948,Vietnam,Sugar cane,1984,39749.4
+44949,Vietnam,Sugar cane,1985,38824.7
+44950,Vietnam,Sugar cane,1986,39667.7
+44951,Vietnam,Sugar cane,1987,39878.9
+44952,Vietnam,Sugar cane,1988,40109.8
+44953,Vietnam,Sugar cane,1989,40367.1
+44954,Vietnam,Sugar cane,1990,41327.2
+44955,Vietnam,Sugar cane,1991,42664.6
+44956,Vietnam,Sugar cane,1992,43938.6
+44957,Vietnam,Sugar cane,1993,42477
+44958,Vietnam,Sugar cane,1994,45318.7
+44959,Vietnam,Sugar cane,1995,47647.2
+44960,Vietnam,Sugar cane,1996,48229.1
+44961,Vietnam,Sugar cane,1997,46384.8
+44962,Vietnam,Sugar cane,1998,49575.9
+44963,Vietnam,Sugar cane,1999,51598.8
+44964,Vietnam,Sugar cane,2000,49766.1
+44965,Vietnam,Sugar cane,2001,50419.3
+44966,Vietnam,Sugar cane,2002,53500
+44967,Vietnam,Sugar cane,2003,53814.5
+44968,Vietnam,Sugar cane,2004,54698.7
+44969,Vietnam,Sugar cane,2005,56134.8
+44970,Vietnam,Sugar cane,2006,58033.7
+44971,Vietnam,Sugar cane,2007,59293.5
+44972,Vietnam,Sugar cane,2008,59643.5
+44973,Vietnam,Sugar cane,2009,58766.2
+44974,Vietnam,Sugar cane,2010,60058.3
+44975,Vietnam,Sugar cane,2011,62141
+44976,Vietnam,Sugar cane,2012,62981.4
+44977,Vietnam,Sugar cane,2013,64875.7
+44978,Vietnam,Sugar cane,2014,64999.6
+44979,Vietnam,Sugar cane,2015,64508.3
+44980,Vietnam,Sugar cane,2016,63643.2
+44981,Vietnam,Sugar cane,2017,65290.6
+44982,Vietnam,Sugar cane,2018,66603.3
+44983,Vietnam,Sugar cane,2019,65961.4
+44984,Vietnam,Sugar cane,2020,62203
+44985,Vietnam,Sugar cane,2021,64735.5
+44986,Vietnam,Sugar cane,2022,65438.3
+44987,Vietnam,Sugar cane,2023,67749.9
 44988,Yemen,Maize (corn),1970,2166.7
 44989,Yemen,Maize (corn),1971,2090.9
 44990,Yemen,Maize (corn),1972,1292.9
@@ -53200,438 +52837,6 @@
 53199,Chile,Watermelons,2021,16434.3
 53200,Chile,Watermelons,2022,16365.5
 53201,Chile,Watermelons,2023,16354
-53202,China,Bananas,1970,12070.6
-53203,China,Bananas,1971,14840.7
-53204,China,Bananas,1972,14634.1
-53205,China,Bananas,1973,17460.5
-53206,China,Bananas,1974,17283
-53207,China,Bananas,1975,15843.7
-53208,China,Bananas,1976,18663.7
-53209,China,Bananas,1977,21736.3
-53210,China,Bananas,1978,18295.6
-53211,China,Bananas,1979,20338.9
-53212,China,Bananas,1980,19317.6
-53213,China,Bananas,1981,17525.7
-53214,China,Bananas,1982,18657
-53215,China,Bananas,1983,18209.6
-53216,China,Bananas,1984,17620.6
-53217,China,Bananas,1985,15004.2
-53218,China,Bananas,1986,17624.8
-53219,China,Bananas,1987,13821.4
-53220,China,Bananas,1988,13555.4
-53221,China,Bananas,1989,13297.6
-53222,China,Bananas,1990,14015.4
-53223,China,Bananas,1991,15307
-53224,China,Bananas,1992,13815.7
-53225,China,Bananas,1993,14188.2
-53226,China,Bananas,1994,19378.7
-53227,China,Bananas,1995,16648.6
-53228,China,Bananas,1996,14707.9
-53229,China,Bananas,1997,16384.8
-53230,China,Bananas,1998,19938.2
-53231,China,Bananas,1999,20818.8
-53232,China,Bananas,2000,19915.1
-53233,China,Bananas,2001,21568
-53234,China,Bananas,2002,22462.6
-53235,China,Bananas,2003,23109.6
-53236,China,Bananas,2004,22824.8
-53237,China,Bananas,2005,23380.2
-53238,China,Bananas,2006,24055
-53239,China,Bananas,2007,25295.9
-53240,China,Bananas,2008,24452
-53241,China,Bananas,2009,25716.3
-53242,China,Bananas,2010,26561.1
-53243,China,Bananas,2011,26811.5
-53244,China,Bananas,2012,29077.3
-53245,China,Bananas,2013,30531.4
-53246,China,Bananas,2014,29834.9
-53247,China,Bananas,2015,25759.1
-53248,China,Bananas,2016,29426.7
-53249,China,Bananas,2017,31419.7
-53250,China,Bananas,2018,33332.4
-53251,China,Bananas,2019,34755.2
-53252,China,Bananas,2020,34694.1
-53253,China,Bananas,2021,35380.6
-53254,China,Bananas,2022,35518.3
-53255,China,Bananas,2023,36099.9
-53256,China,Barley,1970,1139.6
-53257,China,Barley,1971,1260.7
-53258,China,Barley,1972,1268.2
-53259,China,Barley,1973,1076.5
-53260,China,Barley,1974,1481.4
-53261,China,Barley,1975,1760.3
-53262,China,Barley,1976,2014.5
-53263,China,Barley,1977,1974.8
-53264,China,Barley,1978,2229.4
-53265,China,Barley,1979,2489.6
-53266,China,Barley,1980,2180.9
-53267,China,Barley,1981,2583.3
-53268,China,Barley,1982,2807
-53269,China,Barley,1983,2499.9
-53270,China,Barley,1984,2750
-53271,China,Barley,1985,2647.1
-53272,China,Barley,1986,2290.9
-53273,China,Barley,1987,2828.3
-53274,China,Barley,1988,3061.2
-53275,China,Barley,1989,2608.7
-53276,China,Barley,1990,2516.9
-53277,China,Barley,1991,2545.5
-53278,China,Barley,1992,2750
-53279,China,Barley,1993,2766.7
-53280,China,Barley,1994,2812.5
-53281,China,Barley,1995,2600
-53282,China,Barley,1996,2676.9
-53283,China,Barley,1997,2624.6
-53284,China,Barley,1998,2496.3
-53285,China,Barley,1999,2500
-53286,China,Barley,2000,2472.9
-53287,China,Barley,2001,3757.1
-53288,China,Barley,2002,3632.9
-53289,China,Barley,2003,3559.9
-53290,China,Barley,2004,4102.2
-53291,China,Barley,2005,4145.2
-53292,China,Barley,2006,3762.7
-53293,China,Barley,2007,3604.9
-53294,China,Barley,2008,3556.9
-53295,China,Barley,2009,3701.1
-53296,China,Barley,2010,3402.3
-53297,China,Barley,2011,3199.8
-53298,China,Barley,2012,3318.7
-53299,China,Barley,2013,3649.8
-53300,China,Barley,2014,3865.2
-53301,China,Barley,2015,4182.7
-53302,China,Barley,2016,3749.9
-53303,China,Barley,2017,3288.6
-53304,China,Barley,2018,4002
-53305,China,Barley,2019,3935.4
-53306,China,Barley,2020,4000
-53307,China,Barley,2021,3937.3
-53308,China,Barley,2022,4000
-53309,China,Barley,2023,4077.9
-53310,China,"Cassava, fresh",1970,11875
-53311,China,"Cassava, fresh",1971,12316.1
-53312,China,"Cassava, fresh",1972,12305.4
-53313,China,"Cassava, fresh",1973,12211
-53314,China,"Cassava, fresh",1974,12275.6
-53315,China,"Cassava, fresh",1975,11981.2
-53316,China,"Cassava, fresh",1976,12593.1
-53317,China,"Cassava, fresh",1977,12400.5
-53318,China,"Cassava, fresh",1978,12692.8
-53319,China,"Cassava, fresh",1979,14089.6
-53320,China,"Cassava, fresh",1980,14619.2
-53321,China,"Cassava, fresh",1981,15161.3
-53322,China,"Cassava, fresh",1982,15278.8
-53323,China,"Cassava, fresh",1983,15810.5
-53324,China,"Cassava, fresh",1984,15807.2
-53325,China,"Cassava, fresh",1985,14995.9
-53326,China,"Cassava, fresh",1986,15184.8
-53327,China,"Cassava, fresh",1987,14344.4
-53328,China,"Cassava, fresh",1988,14131.7
-53329,China,"Cassava, fresh",1989,14665.8
-53330,China,"Cassava, fresh",1990,13913.5
-53331,China,"Cassava, fresh",1991,14354.1
-53332,China,"Cassava, fresh",1992,14554.5
-53333,China,"Cassava, fresh",1993,14744.5
-53334,China,"Cassava, fresh",1994,14915.5
-53335,China,"Cassava, fresh",1995,15073.5
-53336,China,"Cassava, fresh",1996,15286.1
-53337,China,"Cassava, fresh",1997,15410.2
-53338,China,"Cassava, fresh",1998,15497.3
-53339,China,"Cassava, fresh",1999,15974.7
-53340,China,"Cassava, fresh",2000,15976
-53341,China,"Cassava, fresh",2001,16055.9
-53342,China,"Cassava, fresh",2002,15905.1
-53343,China,"Cassava, fresh",2003,16016.4
-53344,China,"Cassava, fresh",2004,15525.5
-53345,China,"Cassava, fresh",2005,15400.1
-53346,China,"Cassava, fresh",2006,16236.5
-53347,China,"Cassava, fresh",2007,16239.4
-53348,China,"Cassava, fresh",2008,16304.2
-53349,China,"Cassava, fresh",2009,16368.2
-53350,China,"Cassava, fresh",2010,16378.8
-53351,China,"Cassava, fresh",2011,16378.6
-53352,China,"Cassava, fresh",2012,16301.1
-53353,China,"Cassava, fresh",2013,16108.2
-53354,China,"Cassava, fresh",2014,16093.1
-53355,China,"Cassava, fresh",2015,16508.8
-53356,China,"Cassava, fresh",2016,16569.4
-53357,China,"Cassava, fresh",2017,16572
-53358,China,"Cassava, fresh",2018,16573.6
-53359,China,"Cassava, fresh",2019,16581.4
-53360,China,"Cassava, fresh",2020,16668.2
-53361,China,"Cassava, fresh",2021,16675.2
-53362,China,"Cassava, fresh",2022,16707.1
-53363,China,"Cassava, fresh",2023,16432.3
-53364,China,Cucumbers and gherkins,1970,12375.1
-53365,China,Cucumbers and gherkins,1971,12493.9
-53366,China,Cucumbers and gherkins,1972,11703.6
-53367,China,Cucumbers and gherkins,1973,11817.7
-53368,China,Cucumbers and gherkins,1974,12340.1
-53369,China,Cucumbers and gherkins,1975,12341.1
-53370,China,Cucumbers and gherkins,1976,12349.2
-53371,China,Cucumbers and gherkins,1977,12332.1
-53372,China,Cucumbers and gherkins,1978,11372.9
-53373,China,Cucumbers and gherkins,1979,11647.3
-53374,China,Cucumbers and gherkins,1980,11278.5
-53375,China,Cucumbers and gherkins,1981,12045.5
-53376,China,Cucumbers and gherkins,1982,11749.7
-53377,China,Cucumbers and gherkins,1983,11938.8
-53378,China,Cucumbers and gherkins,1984,12527.2
-53379,China,Cucumbers and gherkins,1985,12824.1
-53380,China,Cucumbers and gherkins,1986,13052.9
-53381,China,Cucumbers and gherkins,1987,13271.2
-53382,China,Cucumbers and gherkins,1988,13430
-53383,China,Cucumbers and gherkins,1989,13785.7
-53384,China,Cucumbers and gherkins,1990,14978.1
-53385,China,Cucumbers and gherkins,1991,16209
-53386,China,Cucumbers and gherkins,1992,17655.4
-53387,China,Cucumbers and gherkins,1993,17032.8
-53388,China,Cucumbers and gherkins,1994,16927.5
-53389,China,Cucumbers and gherkins,1995,17455.4
-53390,China,Cucumbers and gherkins,1996,17734.3
-53391,China,Cucumbers and gherkins,1997,16715
-53392,China,Cucumbers and gherkins,1998,15804.2
-53393,China,Cucumbers and gherkins,1999,15732.5
-53394,China,Cucumbers and gherkins,2000,19999.7
-53395,China,Cucumbers and gherkins,2001,21735.4
-53396,China,Cucumbers and gherkins,2002,24984.5
-53397,China,Cucumbers and gherkins,2003,25981.1
-53398,China,Cucumbers and gherkins,2004,26976.1
-53399,China,Cucumbers and gherkins,2005,28540.3
-53400,China,Cucumbers and gherkins,2006,32959.8
-53401,China,Cucumbers and gherkins,2007,34504.5
-53402,China,Cucumbers and gherkins,2008,41886.5
-53403,China,Cucumbers and gherkins,2009,42655.1
-53404,China,Cucumbers and gherkins,2010,42619.1
-53405,China,Cucumbers and gherkins,2011,44173.3
-53406,China,Cucumbers and gherkins,2012,44797.7
-53407,China,Cucumbers and gherkins,2013,46601.2
-53408,China,Cucumbers and gherkins,2014,48075.8
-53409,China,Cucumbers and gherkins,2015,50639
-53410,China,Cucumbers and gherkins,2016,51820
-53411,China,Cucumbers and gherkins,2017,53064.1
-53412,China,Cucumbers and gherkins,2018,54471.4
-53413,China,Cucumbers and gherkins,2019,55849.2
-53414,China,Cucumbers and gherkins,2020,56928.4
-53415,China,Cucumbers and gherkins,2021,58438.7
-53416,China,Cucumbers and gherkins,2022,59296.8
-53417,China,Cucumbers and gherkins,2023,60467.1
-53418,China,Soya beans,1970,1094.2
-53419,China,Soya beans,1971,1108.2
-53420,China,Soya beans,1972,855.2
-53421,China,Soya beans,1973,1133.7
-53422,China,Soya beans,1974,1032.7
-53423,China,Soya beans,1975,1038.2
-53424,China,Soya beans,1976,996
-53425,China,Soya beans,1977,1064.6
-53426,China,Soya beans,1978,1061.7
-53427,China,Soya beans,1979,1032.2
-53428,China,Soya beans,1980,1101.1
-53429,China,Soya beans,1981,1163.9
-53430,China,Soya beans,1982,1074.2
-53431,China,Soya beans,1983,1291.3
-53432,China,Soya beans,1984,1330.9
-53433,China,Soya beans,1985,1360.8
-53434,China,Soya beans,1986,1400.2
-53435,China,Soya beans,1987,1443.4
-53436,China,Soya beans,1988,1434.6
-53437,China,Soya beans,1989,1269.9
-53438,China,Soya beans,1990,1455.4
-53439,China,Soya beans,1991,1379.9
-53440,China,Soya beans,1992,1427.4
-53441,China,Soya beans,1993,1619.5
-53442,China,Soya beans,1994,1735.1
-53443,China,Soya beans,1995,1661.7
-53444,China,Soya beans,1996,1770.3
-53445,China,Soya beans,1997,1765.2
-53446,China,Soya beans,1998,1782.6
-53447,China,Soya beans,1999,1789.2
-53448,China,Soya beans,2000,1655.7
-53449,China,Soya beans,2001,1624.8
-53450,China,Soya beans,2002,1892.9
-53451,China,Soya beans,2003,1652.9
-53452,China,Soya beans,2004,1814.8
-53453,China,Soya beans,2005,1704.5
-53454,China,Soya beans,2006,1620.9
-53455,China,Soya beans,2007,1453.7
-53456,China,Soya beans,2008,1702.8
-53457,China,Soya beans,2009,1630.2
-53458,China,Soya beans,2010,1771.2
-53459,China,Soya beans,2011,1836.2
-53460,China,Soya beans,2012,1814.4
-53461,China,Soya beans,2013,1760
-53462,China,Soya beans,2014,1787.4
-53463,China,Soya beans,2015,1811.3
-53464,China,Soya beans,2016,1803
-53465,China,Soya beans,2017,1853.4
-53466,China,Soya beans,2018,1897.8
-53467,China,Soya beans,2019,1946
-53468,China,Soya beans,2020,1983.1
-53469,China,Soya beans,2021,1948
-53470,China,Soya beans,2022,1980
-53471,China,Soya beans,2023,1952.6
-53472,China,Sugar beet,1970,10582.8
-53473,China,Sugar beet,1971,9690.4
-53474,China,Sugar beet,1972,8730.8
-53475,China,Sugar beet,1973,9388.4
-53476,China,Sugar beet,1974,8580.8
-53477,China,Sugar beet,1975,8181
-53478,China,Sugar beet,1976,8224.4
-53479,China,Sugar beet,1977,6981.2
-53480,China,Sugar beet,1978,8165.6
-53481,China,Sugar beet,1979,9556.9
-53482,China,Sugar beet,1980,14255
-53483,China,Sugar beet,1981,14600.6
-53484,China,Sugar beet,1982,14543.9
-53485,China,Sugar beet,1983,16901.2
-53486,China,Sugar beet,1984,16518.4
-53487,China,Sugar beet,1985,15926.1
-53488,China,Sugar beet,1986,15979.2
-53489,China,Sugar beet,1987,16371.7
-53490,China,Sugar beet,1988,17195.1
-53491,China,Sugar beet,1989,16241.9
-53492,China,Sugar beet,1990,21668.7
-53493,China,Sugar beet,1991,20791.4
-53494,China,Sugar beet,1992,22832
-53495,China,Sugar beet,1993,20123.9
-53496,China,Sugar beet,1994,17934.7
-53497,China,Sugar beet,1995,20132.5
-53498,China,Sugar beet,1996,24149.7
-53499,China,Sugar beet,1997,24474.9
-53500,China,Sugar beet,1998,24806
-53501,China,Sugar beet,1999,25334.6
-53502,China,Sugar beet,2000,24517.9
-53503,China,Sugar beet,2001,26806.7
-53504,China,Sugar beet,2002,30232
-53505,China,Sugar beet,2003,24925.2
-53506,China,Sugar beet,2004,30828.5
-53507,China,Sugar beet,2005,37523.7
-53508,China,Sugar beet,2006,39766.4
-53509,China,Sugar beet,2007,41359.6
-53510,China,Sugar beet,2008,40753.9
-53511,China,Sugar beet,2009,38536.7
-53512,China,Sugar beet,2010,42498.9
-53513,China,Sugar beet,2011,47362
-53514,China,Sugar beet,2012,49793.9
-53515,China,Sugar beet,2013,50922.8
-53516,China,Sugar beet,2014,57648.1
-53517,China,Sugar beet,2015,53000
-53518,China,Sugar beet,2016,55487
-53519,China,Sugar beet,2017,53841.9
-53520,China,Sugar beet,2018,52175.1
-53521,China,Sugar beet,2019,56066.2
-53522,China,Sugar beet,2020,56315.8
-53523,China,Sugar beet,2021,55640.7
-53524,China,Sugar beet,2022,54855.4
-53525,China,Sugar beet,2023,55656.1
-53526,China,Tomatoes,1970,24070.2
-53527,China,Tomatoes,1971,24268
-53528,China,Tomatoes,1972,22950.8
-53529,China,Tomatoes,1973,23161.3
-53530,China,Tomatoes,1974,24096
-53531,China,Tomatoes,1975,24255.2
-53532,China,Tomatoes,1976,24242.8
-53533,China,Tomatoes,1977,24184.4
-53534,China,Tomatoes,1978,23690
-53535,China,Tomatoes,1979,22393.7
-53536,China,Tomatoes,1980,22740.9
-53537,China,Tomatoes,1981,22858.7
-53538,China,Tomatoes,1982,22882.9
-53539,China,Tomatoes,1983,24030
-53540,China,Tomatoes,1984,23860.9
-53541,China,Tomatoes,1985,22653.8
-53542,China,Tomatoes,1986,22453.5
-53543,China,Tomatoes,1987,22122.6
-53544,China,Tomatoes,1988,22321.7
-53545,China,Tomatoes,1989,23219.1
-53546,China,Tomatoes,1990,25003
-53547,China,Tomatoes,1991,26838
-53548,China,Tomatoes,1992,27937.1
-53549,China,Tomatoes,1993,27159.9
-53550,China,Tomatoes,1994,27085.2
-53551,China,Tomatoes,1995,27768.6
-53552,China,Tomatoes,1996,27050.7
-53553,China,Tomatoes,1997,26440.8
-53554,China,Tomatoes,1998,24121.7
-53555,China,Tomatoes,1999,23893.1
-53556,China,Tomatoes,2000,33105.4
-53557,China,Tomatoes,2001,32836.3
-53558,China,Tomatoes,2002,34581.2
-53559,China,Tomatoes,2003,32958.4
-53560,China,Tomatoes,2004,34059.2
-53561,China,Tomatoes,2005,34946.9
-53562,China,Tomatoes,2006,37612.2
-53563,China,Tomatoes,2007,39933.1
-53564,China,Tomatoes,2008,46935.2
-53565,China,Tomatoes,2009,49267.4
-53566,China,Tomatoes,2010,49253.3
-53567,China,Tomatoes,2011,51392.4
-53568,China,Tomatoes,2012,50490.6
-53569,China,Tomatoes,2013,51429
-53570,China,Tomatoes,2014,52434.5
-53571,China,Tomatoes,2015,53991.7
-53572,China,Tomatoes,2016,54863.8
-53573,China,Tomatoes,2017,55736.2
-53574,China,Tomatoes,2018,56729.8
-53575,China,Tomatoes,2019,57716.9
-53576,China,Tomatoes,2020,58452.9
-53577,China,Tomatoes,2021,59665.4
-53578,China,Tomatoes,2022,59814.2
-53579,China,Tomatoes,2023,60507.8
-53580,China,Watermelons,1970,16632.9
-53581,China,Watermelons,1971,16886.7
-53582,China,Watermelons,1972,15801.7
-53583,China,Watermelons,1973,16040
-53584,China,Watermelons,1974,16560.1
-53585,China,Watermelons,1975,16584.2
-53586,China,Watermelons,1976,16637.8
-53587,China,Watermelons,1977,16621.4
-53588,China,Watermelons,1978,15521.2
-53589,China,Watermelons,1979,15825
-53590,China,Watermelons,1980,15415.8
-53591,China,Watermelons,1981,16373.1
-53592,China,Watermelons,1982,14750.7
-53593,China,Watermelons,1983,15826.8
-53594,China,Watermelons,1984,15709.3
-53595,China,Watermelons,1985,16746.8
-53596,China,Watermelons,1986,16821.1
-53597,China,Watermelons,1987,16837
-53598,China,Watermelons,1988,17014.8
-53599,China,Watermelons,1989,17644.2
-53600,China,Watermelons,1990,19084.5
-53601,China,Watermelons,1991,18948.5
-53602,China,Watermelons,1992,20184.9
-53603,China,Watermelons,1993,19483.3
-53604,China,Watermelons,1994,19999.4
-53605,China,Watermelons,1995,21319.5
-53606,China,Watermelons,1996,24298.6
-53607,China,Watermelons,1997,32617.1
-53608,China,Watermelons,1998,26837.2
-53609,China,Watermelons,1999,32308.3
-53610,China,Watermelons,2000,31546.2
-53611,China,Watermelons,2001,31268.5
-53612,China,Watermelons,2002,33238.1
-53613,China,Watermelons,2003,31500.2
-53614,China,Watermelons,2004,34530.7
-53615,China,Watermelons,2005,34950.1
-53616,China,Watermelons,2006,35174.5
-53617,China,Watermelons,2007,33597.9
-53618,China,Watermelons,2008,35848.5
-53619,China,Watermelons,2009,36504.6
-53620,China,Watermelons,2010,36757.3
-53621,China,Watermelons,2011,37244.8
-53622,China,Watermelons,2012,38479.7
-53623,China,Watermelons,2013,38766.7
-53624,China,Watermelons,2014,39365.2
-53625,China,Watermelons,2015,40336.2
-53626,China,Watermelons,2016,40902.2
-53627,China,Watermelons,2017,41406.6
-53628,China,Watermelons,2018,40403.6
-53629,China,Watermelons,2019,39419.8
-53630,China,Watermelons,2020,40685.1
-53631,China,Watermelons,2021,41656.9
-53632,China,Watermelons,2022,42328.4
-53633,China,Watermelons,2023,42773.4
 53634,"China, Hong Kong SAR",Cucumbers and gherkins,1970,20000
 53635,"China, Hong Kong SAR",Cucumbers and gherkins,1971,20000
 53636,"China, Hong Kong SAR",Cucumbers and gherkins,1972,20000
@@ -88091,222 +87296,222 @@
 88090,Venezuela (Bolivarian Republic of),Watermelons,2021,19870.3
 88091,Venezuela (Bolivarian Republic of),Watermelons,2022,21755.7
 88092,Venezuela (Bolivarian Republic of),Watermelons,2023,21901.4
-88093,Viet Nam,Bananas,1970,11341.5
-88094,Viet Nam,Bananas,1971,11190.5
-88095,Viet Nam,Bananas,1972,10326.1
-88096,Viet Nam,Bananas,1973,9958.3
-88097,Viet Nam,Bananas,1974,9434
-88098,Viet Nam,Bananas,1975,9600
-88099,Viet Nam,Bananas,1976,10185.2
-88100,Viet Nam,Bananas,1977,10714.3
-88101,Viet Nam,Bananas,1978,11551.7
-88102,Viet Nam,Bananas,1979,13212.3
-88103,Viet Nam,Bananas,1980,13314
-88104,Viet Nam,Bananas,1981,12328.8
-88105,Viet Nam,Bananas,1982,12837.8
-88106,Viet Nam,Bananas,1983,11842.1
-88107,Viet Nam,Bananas,1984,12820.5
-88108,Viet Nam,Bananas,1985,13500
-88109,Viet Nam,Bananas,1986,15301.3
-88110,Viet Nam,Bananas,1987,14375
-88111,Viet Nam,Bananas,1988,14638.6
-88112,Viet Nam,Bananas,1989,14506.6
-88113,Viet Nam,Bananas,1990,13835.7
-88114,Viet Nam,Bananas,1991,14424.8
-88115,Viet Nam,Bananas,1992,15163.7
-88116,Viet Nam,Bananas,1993,14835.9
-88117,Viet Nam,Bananas,1994,15030.8
-88118,Viet Nam,Bananas,1995,13975.3
-88119,Viet Nam,Bananas,1996,13750.8
-88120,Viet Nam,Bananas,1997,14243.5
-88121,Viet Nam,Bananas,1998,14727.8
-88122,Viet Nam,Bananas,1999,13533.6
-88123,Viet Nam,Bananas,2000,11419.3
-88124,Viet Nam,Bananas,2001,11255
-88125,Viet Nam,Bananas,2002,11439
-88126,Viet Nam,Bananas,2003,14418.4
-88127,Viet Nam,Bananas,2004,14371.9
-88128,Viet Nam,Bananas,2005,14315.2
-88129,Viet Nam,Bananas,2006,14361.7
-88130,Viet Nam,Bananas,2007,14263.2
-88131,Viet Nam,Bananas,2008,14736.8
-88132,Viet Nam,Bananas,2009,15174.2
-88133,Viet Nam,Bananas,2010,15636.9
-88134,Viet Nam,Bananas,2011,16368.2
-88135,Viet Nam,Bananas,2012,16508.1
-88136,Viet Nam,Bananas,2013,16832.4
-88137,Viet Nam,Bananas,2014,16232.9
-88138,Viet Nam,Bananas,2015,16456.1
-88139,Viet Nam,Bananas,2016,16177.3
-88140,Viet Nam,Bananas,2017,16303.3
-88141,Viet Nam,Bananas,2018,16242.4
-88142,Viet Nam,Bananas,2019,16419.3
-88143,Viet Nam,Bananas,2020,16603.4
-88144,Viet Nam,Bananas,2021,16908.6
-88145,Viet Nam,Bananas,2022,17423.4
-88146,Viet Nam,Bananas,2023,17938.6
-88147,Viet Nam,"Cassava, fresh",1970,7213.7
-88148,Viet Nam,"Cassava, fresh",1971,7132.4
-88149,Viet Nam,"Cassava, fresh",1972,7229.4
-88150,Viet Nam,"Cassava, fresh",1973,7333.3
-88151,Viet Nam,"Cassava, fresh",1974,7333.3
-88152,Viet Nam,"Cassava, fresh",1975,7420.7
-88153,Viet Nam,"Cassava, fresh",1976,7859.7
-88154,Viet Nam,"Cassava, fresh",1977,7672.3
-88155,Viet Nam,"Cassava, fresh",1978,7603.1
-88156,Viet Nam,"Cassava, fresh",1979,7416.6
-88157,Viet Nam,"Cassava, fresh",1980,7502.8
-88158,Viet Nam,"Cassava, fresh",1981,7825.5
-88159,Viet Nam,"Cassava, fresh",1982,7826.8
-88160,Viet Nam,"Cassava, fresh",1983,8466.5
-88161,Viet Nam,"Cassava, fresh",1984,8788
-88162,Viet Nam,"Cassava, fresh",1985,8775.5
-88163,Viet Nam,"Cassava, fresh",1986,9158.9
-88164,Viet Nam,"Cassava, fresh",1987,9161.6
-88165,Viet Nam,"Cassava, fresh",1988,8936.5
-88166,Viet Nam,"Cassava, fresh",1989,9084.3
-88167,Viet Nam,"Cassava, fresh",1990,8862.1
-88168,Viet Nam,"Cassava, fresh",1991,8985.7
-88169,Viet Nam,"Cassava, fresh",1992,9048.3
-88170,Viet Nam,"Cassava, fresh",1993,8812.9
-88171,Viet Nam,"Cassava, fresh",1994,8440.6
-88172,Viet Nam,"Cassava, fresh",1995,7894.7
-88173,Viet Nam,"Cassava, fresh",1996,7501.1
-88174,Viet Nam,"Cassava, fresh",1997,9447.3
-88175,Viet Nam,"Cassava, fresh",1998,7700.3
-88176,Viet Nam,"Cassava, fresh",1999,8580
-88177,Viet Nam,"Cassava, fresh",2000,8359.8
-88178,Viet Nam,"Cassava, fresh",2001,12005.5
-88179,Viet Nam,"Cassava, fresh",2002,13169.1
-88180,Viet Nam,"Cassava, fresh",2003,14275.1
-88181,Viet Nam,"Cassava, fresh",2004,14978.6
-88182,Viet Nam,"Cassava, fresh",2005,15784.3
-88183,Viet Nam,"Cassava, fresh",2006,16377.3
-88184,Viet Nam,"Cassava, fresh",2007,16534.4
-88185,Viet Nam,"Cassava, fresh",2008,16804.9
-88186,Viet Nam,"Cassava, fresh",2009,16798.9
-88187,Viet Nam,"Cassava, fresh",2010,17260.2
-88188,Viet Nam,"Cassava, fresh",2011,17732.7
-88189,Viet Nam,"Cassava, fresh",2012,17644.5
-88190,Viet Nam,"Cassava, fresh",2013,17933.4
-88191,Viet Nam,"Cassava, fresh",2014,18470.7
-88192,Viet Nam,"Cassava, fresh",2015,18908.5
-88193,Viet Nam,"Cassava, fresh",2016,19165.8
-88194,Viet Nam,"Cassava, fresh",2017,19281.8
-88195,Viet Nam,"Cassava, fresh",2018,19194.3
-88196,Viet Nam,"Cassava, fresh",2019,19651.1
-88197,Viet Nam,"Cassava, fresh",2020,20027.7
-88198,Viet Nam,"Cassava, fresh",2021,20142.2
-88199,Viet Nam,"Cassava, fresh",2022,20092.7
-88200,Viet Nam,"Cassava, fresh",2023,20255.8
-88201,Viet Nam,Soya beans,1970,537.9
-88202,Viet Nam,Soya beans,1971,536.7
-88203,Viet Nam,Soya beans,1972,538.5
-88204,Viet Nam,Soya beans,1973,555.6
-88205,Viet Nam,Soya beans,1974,571.4
-88206,Viet Nam,Soya beans,1975,509.2
-88207,Viet Nam,Soya beans,1976,525.4
-88208,Viet Nam,Soya beans,1977,509.5
-88209,Viet Nam,Soya beans,1978,522.8
-88210,Viet Nam,Soya beans,1979,549.7
-88211,Viet Nam,Soya beans,1980,656.4
-88212,Viet Nam,Soya beans,1981,739.2
-88213,Viet Nam,Soya beans,1982,745.9
-88214,Viet Nam,Soya beans,1983,657.7
-88215,Viet Nam,Soya beans,1984,764.6
-88216,Viet Nam,Soya beans,1985,775.5
-88217,Viet Nam,Soya beans,1986,795.3
-88218,Viet Nam,Soya beans,1987,812.4
-88219,Viet Nam,Soya beans,1988,828.2
-88220,Viet Nam,Soya beans,1989,821.9
-88221,Viet Nam,Soya beans,1990,787.3
-88222,Viet Nam,Soya beans,1991,791.3
-88223,Viet Nam,Soya beans,1992,822.2
-88224,Viet Nam,Soya beans,1993,880.1
-88225,Viet Nam,Soya beans,1994,943.2
-88226,Viet Nam,Soya beans,1995,1036.3
-88227,Viet Nam,Soya beans,1996,1031.7
-88228,Viet Nam,Soya beans,1997,1062
-88229,Viet Nam,Soya beans,1998,1133.7
-88230,Viet Nam,Soya beans,1999,1140.2
-88231,Viet Nam,Soya beans,2000,1203.1
-88232,Viet Nam,Soya beans,2001,1238.1
-88233,Viet Nam,Soya beans,2002,1296.3
-88234,Viet Nam,Soya beans,2003,1326.7
-88235,Viet Nam,Soya beans,2004,1337.9
-88236,Viet Nam,Soya beans,2005,1434.1
-88237,Viet Nam,Soya beans,2006,1390.6
-88238,Viet Nam,Soya beans,2007,1470.1
-88239,Viet Nam,Soya beans,2008,1393
-88240,Viet Nam,Soya beans,2009,1463.9
-88241,Viet Nam,Soya beans,2010,1509.6
-88242,Viet Nam,Soya beans,2011,1469.4
-88243,Viet Nam,Soya beans,2012,1452
-88244,Viet Nam,Soya beans,2013,1436
-88245,Viet Nam,Soya beans,2014,1431.6
-88246,Viet Nam,Soya beans,2015,1454.5
-88247,Viet Nam,Soya beans,2016,1613.8
-88248,Viet Nam,Soya beans,2017,1498
-88249,Viet Nam,Soya beans,2018,1524.4
-88250,Viet Nam,Soya beans,2019,1569.8
-88251,Viet Nam,Soya beans,2020,1573.6
-88252,Viet Nam,Soya beans,2021,1604.9
-88253,Viet Nam,Soya beans,2022,1608.8
-88254,Viet Nam,Soya beans,2023,1606.3
-88255,Viet Nam,Watermelons,1970,10161.3
-88256,Viet Nam,Watermelons,1971,10163.9
-88257,Viet Nam,Watermelons,1972,10254.2
-88258,Viet Nam,Watermelons,1973,11034.5
-88259,Viet Nam,Watermelons,1974,11032.3
-88260,Viet Nam,Watermelons,1975,11030.3
-88261,Viet Nam,Watermelons,1976,11028.6
-88262,Viet Nam,Watermelons,1977,10933.3
-88263,Viet Nam,Watermelons,1978,10625
-88264,Viet Nam,Watermelons,1979,10588.2
-88265,Viet Nam,Watermelons,1980,10555.6
-88266,Viet Nam,Watermelons,1981,10777.8
-88267,Viet Nam,Watermelons,1982,10000
-88268,Viet Nam,Watermelons,1983,9166.7
-88269,Viet Nam,Watermelons,1984,9583.3
-88270,Viet Nam,Watermelons,1985,8928.6
-88271,Viet Nam,Watermelons,1986,9000
-88272,Viet Nam,Watermelons,1987,9466.7
-88273,Viet Nam,Watermelons,1988,9666.7
-88274,Viet Nam,Watermelons,1989,9375
-88275,Viet Nam,Watermelons,1990,9164.5
-88276,Viet Nam,Watermelons,1991,9396.1
-88277,Viet Nam,Watermelons,1992,9529.4
-88278,Viet Nam,Watermelons,1993,9571.4
-88279,Viet Nam,Watermelons,1994,9611.1
-88280,Viet Nam,Watermelons,1995,9729.7
-88281,Viet Nam,Watermelons,1996,10150.9
-88282,Viet Nam,Watermelons,1997,10526.3
-88283,Viet Nam,Watermelons,1998,10526.3
-88284,Viet Nam,Watermelons,1999,10526.3
-88285,Viet Nam,Watermelons,2000,10526.3
-88286,Viet Nam,Watermelons,2001,12879.7
-88287,Viet Nam,Watermelons,2002,15796.8
-88288,Viet Nam,Watermelons,2003,15438.1
-88289,Viet Nam,Watermelons,2004,15185.2
-88290,Viet Nam,Watermelons,2005,15000
-88291,Viet Nam,Watermelons,2006,14912.3
-88292,Viet Nam,Watermelons,2007,14827.6
-88293,Viet Nam,Watermelons,2008,14745.8
-88294,Viet Nam,Watermelons,2009,14666.7
-88295,Viet Nam,Watermelons,2010,16586
-88296,Viet Nam,Watermelons,2011,19297.5
-88297,Viet Nam,Watermelons,2012,22078.9
-88298,Viet Nam,Watermelons,2013,21274.3
-88299,Viet Nam,Watermelons,2014,21088.7
-88300,Viet Nam,Watermelons,2015,22000.5
-88301,Viet Nam,Watermelons,2016,22039.3
-88302,Viet Nam,Watermelons,2017,22002.7
-88303,Viet Nam,Watermelons,2018,23131.1
-88304,Viet Nam,Watermelons,2019,23346.1
-88305,Viet Nam,Watermelons,2020,23617.7
-88306,Viet Nam,Watermelons,2021,24466.4
-88307,Viet Nam,Watermelons,2022,25147.4
-88308,Viet Nam,Watermelons,2023,25087.7
+88093,Vietnam,Bananas,1970,11341.5
+88094,Vietnam,Bananas,1971,11190.5
+88095,Vietnam,Bananas,1972,10326.1
+88096,Vietnam,Bananas,1973,9958.3
+88097,Vietnam,Bananas,1974,9434
+88098,Vietnam,Bananas,1975,9600
+88099,Vietnam,Bananas,1976,10185.2
+88100,Vietnam,Bananas,1977,10714.3
+88101,Vietnam,Bananas,1978,11551.7
+88102,Vietnam,Bananas,1979,13212.3
+88103,Vietnam,Bananas,1980,13314
+88104,Vietnam,Bananas,1981,12328.8
+88105,Vietnam,Bananas,1982,12837.8
+88106,Vietnam,Bananas,1983,11842.1
+88107,Vietnam,Bananas,1984,12820.5
+88108,Vietnam,Bananas,1985,13500
+88109,Vietnam,Bananas,1986,15301.3
+88110,Vietnam,Bananas,1987,14375
+88111,Vietnam,Bananas,1988,14638.6
+88112,Vietnam,Bananas,1989,14506.6
+88113,Vietnam,Bananas,1990,13835.7
+88114,Vietnam,Bananas,1991,14424.8
+88115,Vietnam,Bananas,1992,15163.7
+88116,Vietnam,Bananas,1993,14835.9
+88117,Vietnam,Bananas,1994,15030.8
+88118,Vietnam,Bananas,1995,13975.3
+88119,Vietnam,Bananas,1996,13750.8
+88120,Vietnam,Bananas,1997,14243.5
+88121,Vietnam,Bananas,1998,14727.8
+88122,Vietnam,Bananas,1999,13533.6
+88123,Vietnam,Bananas,2000,11419.3
+88124,Vietnam,Bananas,2001,11255
+88125,Vietnam,Bananas,2002,11439
+88126,Vietnam,Bananas,2003,14418.4
+88127,Vietnam,Bananas,2004,14371.9
+88128,Vietnam,Bananas,2005,14315.2
+88129,Vietnam,Bananas,2006,14361.7
+88130,Vietnam,Bananas,2007,14263.2
+88131,Vietnam,Bananas,2008,14736.8
+88132,Vietnam,Bananas,2009,15174.2
+88133,Vietnam,Bananas,2010,15636.9
+88134,Vietnam,Bananas,2011,16368.2
+88135,Vietnam,Bananas,2012,16508.1
+88136,Vietnam,Bananas,2013,16832.4
+88137,Vietnam,Bananas,2014,16232.9
+88138,Vietnam,Bananas,2015,16456.1
+88139,Vietnam,Bananas,2016,16177.3
+88140,Vietnam,Bananas,2017,16303.3
+88141,Vietnam,Bananas,2018,16242.4
+88142,Vietnam,Bananas,2019,16419.3
+88143,Vietnam,Bananas,2020,16603.4
+88144,Vietnam,Bananas,2021,16908.6
+88145,Vietnam,Bananas,2022,17423.4
+88146,Vietnam,Bananas,2023,17938.6
+88147,Vietnam,"Cassava, fresh",1970,7213.7
+88148,Vietnam,"Cassava, fresh",1971,7132.4
+88149,Vietnam,"Cassava, fresh",1972,7229.4
+88150,Vietnam,"Cassava, fresh",1973,7333.3
+88151,Vietnam,"Cassava, fresh",1974,7333.3
+88152,Vietnam,"Cassava, fresh",1975,7420.7
+88153,Vietnam,"Cassava, fresh",1976,7859.7
+88154,Vietnam,"Cassava, fresh",1977,7672.3
+88155,Vietnam,"Cassava, fresh",1978,7603.1
+88156,Vietnam,"Cassava, fresh",1979,7416.6
+88157,Vietnam,"Cassava, fresh",1980,7502.8
+88158,Vietnam,"Cassava, fresh",1981,7825.5
+88159,Vietnam,"Cassava, fresh",1982,7826.8
+88160,Vietnam,"Cassava, fresh",1983,8466.5
+88161,Vietnam,"Cassava, fresh",1984,8788
+88162,Vietnam,"Cassava, fresh",1985,8775.5
+88163,Vietnam,"Cassava, fresh",1986,9158.9
+88164,Vietnam,"Cassava, fresh",1987,9161.6
+88165,Vietnam,"Cassava, fresh",1988,8936.5
+88166,Vietnam,"Cassava, fresh",1989,9084.3
+88167,Vietnam,"Cassava, fresh",1990,8862.1
+88168,Vietnam,"Cassava, fresh",1991,8985.7
+88169,Vietnam,"Cassava, fresh",1992,9048.3
+88170,Vietnam,"Cassava, fresh",1993,8812.9
+88171,Vietnam,"Cassava, fresh",1994,8440.6
+88172,Vietnam,"Cassava, fresh",1995,7894.7
+88173,Vietnam,"Cassava, fresh",1996,7501.1
+88174,Vietnam,"Cassava, fresh",1997,9447.3
+88175,Vietnam,"Cassava, fresh",1998,7700.3
+88176,Vietnam,"Cassava, fresh",1999,8580
+88177,Vietnam,"Cassava, fresh",2000,8359.8
+88178,Vietnam,"Cassava, fresh",2001,12005.5
+88179,Vietnam,"Cassava, fresh",2002,13169.1
+88180,Vietnam,"Cassava, fresh",2003,14275.1
+88181,Vietnam,"Cassava, fresh",2004,14978.6
+88182,Vietnam,"Cassava, fresh",2005,15784.3
+88183,Vietnam,"Cassava, fresh",2006,16377.3
+88184,Vietnam,"Cassava, fresh",2007,16534.4
+88185,Vietnam,"Cassava, fresh",2008,16804.9
+88186,Vietnam,"Cassava, fresh",2009,16798.9
+88187,Vietnam,"Cassava, fresh",2010,17260.2
+88188,Vietnam,"Cassava, fresh",2011,17732.7
+88189,Vietnam,"Cassava, fresh",2012,17644.5
+88190,Vietnam,"Cassava, fresh",2013,17933.4
+88191,Vietnam,"Cassava, fresh",2014,18470.7
+88192,Vietnam,"Cassava, fresh",2015,18908.5
+88193,Vietnam,"Cassava, fresh",2016,19165.8
+88194,Vietnam,"Cassava, fresh",2017,19281.8
+88195,Vietnam,"Cassava, fresh",2018,19194.3
+88196,Vietnam,"Cassava, fresh",2019,19651.1
+88197,Vietnam,"Cassava, fresh",2020,20027.7
+88198,Vietnam,"Cassava, fresh",2021,20142.2
+88199,Vietnam,"Cassava, fresh",2022,20092.7
+88200,Vietnam,"Cassava, fresh",2023,20255.8
+88201,Vietnam,Soya beans,1970,537.9
+88202,Vietnam,Soya beans,1971,536.7
+88203,Vietnam,Soya beans,1972,538.5
+88204,Vietnam,Soya beans,1973,555.6
+88205,Vietnam,Soya beans,1974,571.4
+88206,Vietnam,Soya beans,1975,509.2
+88207,Vietnam,Soya beans,1976,525.4
+88208,Vietnam,Soya beans,1977,509.5
+88209,Vietnam,Soya beans,1978,522.8
+88210,Vietnam,Soya beans,1979,549.7
+88211,Vietnam,Soya beans,1980,656.4
+88212,Vietnam,Soya beans,1981,739.2
+88213,Vietnam,Soya beans,1982,745.9
+88214,Vietnam,Soya beans,1983,657.7
+88215,Vietnam,Soya beans,1984,764.6
+88216,Vietnam,Soya beans,1985,775.5
+88217,Vietnam,Soya beans,1986,795.3
+88218,Vietnam,Soya beans,1987,812.4
+88219,Vietnam,Soya beans,1988,828.2
+88220,Vietnam,Soya beans,1989,821.9
+88221,Vietnam,Soya beans,1990,787.3
+88222,Vietnam,Soya beans,1991,791.3
+88223,Vietnam,Soya beans,1992,822.2
+88224,Vietnam,Soya beans,1993,880.1
+88225,Vietnam,Soya beans,1994,943.2
+88226,Vietnam,Soya beans,1995,1036.3
+88227,Vietnam,Soya beans,1996,1031.7
+88228,Vietnam,Soya beans,1997,1062
+88229,Vietnam,Soya beans,1998,1133.7
+88230,Vietnam,Soya beans,1999,1140.2
+88231,Vietnam,Soya beans,2000,1203.1
+88232,Vietnam,Soya beans,2001,1238.1
+88233,Vietnam,Soya beans,2002,1296.3
+88234,Vietnam,Soya beans,2003,1326.7
+88235,Vietnam,Soya beans,2004,1337.9
+88236,Vietnam,Soya beans,2005,1434.1
+88237,Vietnam,Soya beans,2006,1390.6
+88238,Vietnam,Soya beans,2007,1470.1
+88239,Vietnam,Soya beans,2008,1393
+88240,Vietnam,Soya beans,2009,1463.9
+88241,Vietnam,Soya beans,2010,1509.6
+88242,Vietnam,Soya beans,2011,1469.4
+88243,Vietnam,Soya beans,2012,1452
+88244,Vietnam,Soya beans,2013,1436
+88245,Vietnam,Soya beans,2014,1431.6
+88246,Vietnam,Soya beans,2015,1454.5
+88247,Vietnam,Soya beans,2016,1613.8
+88248,Vietnam,Soya beans,2017,1498
+88249,Vietnam,Soya beans,2018,1524.4
+88250,Vietnam,Soya beans,2019,1569.8
+88251,Vietnam,Soya beans,2020,1573.6
+88252,Vietnam,Soya beans,2021,1604.9
+88253,Vietnam,Soya beans,2022,1608.8
+88254,Vietnam,Soya beans,2023,1606.3
+88255,Vietnam,Watermelons,1970,10161.3
+88256,Vietnam,Watermelons,1971,10163.9
+88257,Vietnam,Watermelons,1972,10254.2
+88258,Vietnam,Watermelons,1973,11034.5
+88259,Vietnam,Watermelons,1974,11032.3
+88260,Vietnam,Watermelons,1975,11030.3
+88261,Vietnam,Watermelons,1976,11028.6
+88262,Vietnam,Watermelons,1977,10933.3
+88263,Vietnam,Watermelons,1978,10625
+88264,Vietnam,Watermelons,1979,10588.2
+88265,Vietnam,Watermelons,1980,10555.6
+88266,Vietnam,Watermelons,1981,10777.8
+88267,Vietnam,Watermelons,1982,10000
+88268,Vietnam,Watermelons,1983,9166.7
+88269,Vietnam,Watermelons,1984,9583.3
+88270,Vietnam,Watermelons,1985,8928.6
+88271,Vietnam,Watermelons,1986,9000
+88272,Vietnam,Watermelons,1987,9466.7
+88273,Vietnam,Watermelons,1988,9666.7
+88274,Vietnam,Watermelons,1989,9375
+88275,Vietnam,Watermelons,1990,9164.5
+88276,Vietnam,Watermelons,1991,9396.1
+88277,Vietnam,Watermelons,1992,9529.4
+88278,Vietnam,Watermelons,1993,9571.4
+88279,Vietnam,Watermelons,1994,9611.1
+88280,Vietnam,Watermelons,1995,9729.7
+88281,Vietnam,Watermelons,1996,10150.9
+88282,Vietnam,Watermelons,1997,10526.3
+88283,Vietnam,Watermelons,1998,10526.3
+88284,Vietnam,Watermelons,1999,10526.3
+88285,Vietnam,Watermelons,2000,10526.3
+88286,Vietnam,Watermelons,2001,12879.7
+88287,Vietnam,Watermelons,2002,15796.8
+88288,Vietnam,Watermelons,2003,15438.1
+88289,Vietnam,Watermelons,2004,15185.2
+88290,Vietnam,Watermelons,2005,15000
+88291,Vietnam,Watermelons,2006,14912.3
+88292,Vietnam,Watermelons,2007,14827.6
+88293,Vietnam,Watermelons,2008,14745.8
+88294,Vietnam,Watermelons,2009,14666.7
+88295,Vietnam,Watermelons,2010,16586
+88296,Vietnam,Watermelons,2011,19297.5
+88297,Vietnam,Watermelons,2012,22078.9
+88298,Vietnam,Watermelons,2013,21274.3
+88299,Vietnam,Watermelons,2014,21088.7
+88300,Vietnam,Watermelons,2015,22000.5
+88301,Vietnam,Watermelons,2016,22039.3
+88302,Vietnam,Watermelons,2017,22002.7
+88303,Vietnam,Watermelons,2018,23131.1
+88304,Vietnam,Watermelons,2019,23346.1
+88305,Vietnam,Watermelons,2020,23617.7
+88306,Vietnam,Watermelons,2021,24466.4
+88307,Vietnam,Watermelons,2022,25147.4
+88308,Vietnam,Watermelons,2023,25087.7
 88309,Yemen,Bananas,1970,2540.2
 88310,Yemen,Bananas,1971,2903
 88311,Yemen,Bananas,1972,1679.1

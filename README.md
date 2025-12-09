@@ -5,9 +5,9 @@
 
 ## 📌 Project Overview
 
-This project uses different machine learning models to predict global crop yields (Rice, Wheat, Maize, and Barley) using environmental and agricultural data.
+This project uses different machine learning models to predict global crop yields (Rice) using environmental and agricultural data.
 
-The main goal is to compare simple and advanced models and see which ones handle the complex relationships between weather, farming practices, and crop yields the best.
+The main goal of this project is to predict rice yield using various machine learning models and hyperparameter tuning to minimize RMSE. Rice yield, measured in kg/ha, is a critical parameter, especially for the public sector, as it informs subsidy budgeting and ensures national food security.
 
 ## 📂 Project Structure
 

@@ -1,7 +1,12 @@
 # Machine Learning for Crop Yield Prediction
 
 **Course:** EAEE4000 – Machine Learning Applications for Environmental Engineering (Fall 2025)
+
 **Instructor:** Prof. Pierre Gentine, Columbia University
+
+**Members:** Pavin Pirom (pp2952), Trin Uthaisang (tu2185)
+
+
 
 ## 📌 Project Overview
 

@@ -36,9 +36,9 @@ The work is split into 5 main parts:
   * Baseline: Previous-year prediction
   * XGBoost
   * Feedforward Neural Network (PyTorch)
-  * 1D-CNN for short-term patterns
-  * LSTM for time-series forecasting
-
+  * 1D-CNN
+  * LSTM
+  * Transformer
 ## 🛠️ Tech Stack
 
 * Python 3.x
